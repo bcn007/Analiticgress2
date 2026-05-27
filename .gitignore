@@ -1,6 +1,0 @@
-cooker/raw/*.json
-cooker/raw/*.jsonl
-cooker/raw/*.txt
-cooker/raw/drive_sync_meta.json
-__pycache__/
-*.pyc
