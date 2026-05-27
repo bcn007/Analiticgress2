@@ -1,0 +1,15 @@
+{
+  "builtAt": "2026-05-27T23:17:49.338908+00:00",
+  "rawDir": "C:\\Users\\efernandez\\Desktop\\ING\\logs\\JSONs",
+  "filesRead": 39,
+  "recordsRead": 415673,
+  "recordsUnique": 414708,
+  "duplicatesSkipped": 965,
+  "agents": 481,
+  "portals": 35593,
+  "cookedEvents": 413565,
+  "cookedChunks": 9,
+  "cookedRawJsonBytes": 120322425,
+  "cookedCompressedBase64Bytes": 26541596,
+  "schema": "bot-references-v1"
+}
