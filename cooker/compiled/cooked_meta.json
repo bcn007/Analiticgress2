@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "cookedAt": "2026-05-28T21:23:45.362484+00:00",
+  "processedSources": [],
+  "processedSourceFiles": 41,
+  "pendingSourceFiles": 0,
+  "recordsThisRun": 431346,
+  "eventsAddedThisRun": 429230,
+  "eventCount": 429230,
+  "rawJsonBytes": 144653826,
+  "compressedBase64Bytes": 28346672,
+  "totalChunks": 10,
+  "chunkSize": 3145728,
+  "generator": "python-static-cooker",
+  "timezone": "Europe/Madrid",
+  "dayKeyAlgo": "Europe/Madrid local date",
+  "sessionGapMs": 14400000,
+  "sidAlgo": "sha1-10",
+  "openSessionSidAlgo": "sha1-10-agent-start-end",
+  "heatmap": {
+    "format": "weekday-hour-flat-168",
+    "weekStart": "monday",
+    "tz": "Europe/Madrid"
+  },
+  "speedFilter": {
+    "maxKmh": 200,
+    "minGapMs": 60000
+  },
+  "relationships": {
+    "topCollab": "same faction, co-presence in global session or nearby operational window",
+    "topRivals": "opposite faction, same portal or zone inside 30 min window"
+  },
+  "filters": {
+    "agentBlacklist": [
+      "__ada__",
+      "__jarvis__",
+      "a",
+      "agent",
+      "an",
+      "enlightened",
+      "machina",
+      "niasection14",
+      "resistance",
+      "the",
+      "unknown",
+      "your"
+    ],
+    "agentKey": "NFKD, remove marks, lowercase, ASCII alnum except __name__ sentinels",
+    "geo": {
+      "franceBoundingBoxExcluded": {
+        "latGt": 43.35,
+        "lngGt": -2.0,
+        "lngLt": 8.5
+      }
+    }
+  }
+}
