@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "builtAt": "2026-05-28T21:50:52.935733+00:00",
+  "builtAt": "2026-05-29T14:20:58.000547+00:00",
   "generator": "python-static-cooker",
   "timezone": "Europe/Madrid",
   "dayKeyAlgo": "Europe/Madrid local date",
   "sessionGapMs": 14400000,
   "sidAlgo": "sha1-10",
   "openSessionSidAlgo": "sha1-10-agent-start-end",
-  "eventCount": 429230,
-  "sourceFiles": 41,
-  "recordsRead": 431346,
+  "eventCount": 446169,
+  "sourceFiles": 43,
+  "recordsRead": 448699,
   "firstTs": 1776354382830,
-  "lastTs": 1779832203286,
-  "dayCount": 41,
+  "lastTs": 1780005508956,
+  "dayCount": 43,
   "days": [
     {
       "day": "2026-04-16",
@@ -317,8 +317,8 @@
       "eventCount": 5943,
       "firstTs": 1779141648357,
       "lastTs": 1779227935586,
-      "rawJsonBytes": 2071471,
-      "compressedBase64Bytes": 403044
+      "rawJsonBytes": 2080389,
+      "compressedBase64Bytes": 403300
     },
     {
       "day": "2026-05-20",
@@ -326,8 +326,8 @@
       "eventCount": 8636,
       "firstTs": 1779228051440,
       "lastTs": 1779314364789,
-      "rawJsonBytes": 2966053,
-      "compressedBase64Bytes": 591656
+      "rawJsonBytes": 2983213,
+      "compressedBase64Bytes": 592176
     },
     {
       "day": "2026-05-21",
@@ -335,8 +335,8 @@
       "eventCount": 9331,
       "firstTs": 1779314477264,
       "lastTs": 1779400351881,
-      "rawJsonBytes": 3184092,
-      "compressedBase64Bytes": 638712
+      "rawJsonBytes": 3201720,
+      "compressedBase64Bytes": 639376
     },
     {
       "day": "2026-05-22",
@@ -344,8 +344,8 @@
       "eventCount": 8191,
       "firstTs": 1779401031284,
       "lastTs": 1779487191457,
-      "rawJsonBytes": 2811397,
-      "compressedBase64Bytes": 580104
+      "rawJsonBytes": 2827491,
+      "compressedBase64Bytes": 580740
     },
     {
       "day": "2026-05-23",
@@ -353,8 +353,8 @@
       "eventCount": 12250,
       "firstTs": 1779487260218,
       "lastTs": 1779573557702,
-      "rawJsonBytes": 4132870,
-      "compressedBase64Bytes": 833060
+      "rawJsonBytes": 4150472,
+      "compressedBase64Bytes": 833756
     },
     {
       "day": "2026-05-24",
@@ -362,8 +362,8 @@
       "eventCount": 9051,
       "firstTs": 1779573782282,
       "lastTs": 1779659873268,
-      "rawJsonBytes": 3140726,
-      "compressedBase64Bytes": 626104
+      "rawJsonBytes": 3158822,
+      "compressedBase64Bytes": 626636
     },
     {
       "day": "2026-05-25",
@@ -371,8 +371,8 @@
       "eventCount": 6429,
       "firstTs": 1779660093459,
       "lastTs": 1779746379404,
-      "rawJsonBytes": 2285316,
-      "compressedBase64Bytes": 453772
+      "rawJsonBytes": 2304374,
+      "compressedBase64Bytes": 454208
     },
     {
       "day": "2026-05-26",
@@ -380,15 +380,33 @@
       "eventCount": 9236,
       "firstTs": 1779746447175,
       "lastTs": 1779832203286,
-      "rawJsonBytes": 3182787,
-      "compressedBase64Bytes": 636216
+      "rawJsonBytes": 3205665,
+      "compressedBase64Bytes": 637072
+    },
+    {
+      "day": "2026-05-27",
+      "path": "events/2026/05/2026-05-27.json.gz.b64.txt",
+      "eventCount": 8621,
+      "firstTs": 1779832965469,
+      "lastTs": 1779919158620,
+      "rawJsonBytes": 3028219,
+      "compressedBase64Bytes": 584544
+    },
+    {
+      "day": "2026-05-28",
+      "path": "events/2026/05/2026-05-28.json.gz.b64.txt",
+      "eventCount": 8318,
+      "firstTs": 1779919505480,
+      "lastTs": 1780005508956,
+      "rawJsonBytes": 2917850,
+      "compressedBase64Bytes": 572824
     }
   ],
   "summaries": {
     "global": {
       "path": "summaries/global.json.gz.b64.txt",
       "rawJsonBytes": 385,
-      "compressedBase64Bytes": 364
+      "compressedBase64Bytes": 368
     },
     "months": {
       "path": "summaries/months.json.gz.b64.txt",
@@ -397,28 +415,28 @@
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 638836,
-      "compressedBase64Bytes": 165004
+      "rawJsonBytes": 647044,
+      "compressedBase64Bytes": 167808
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 7136825,
-      "compressedBase64Bytes": 1960572
+      "rawJsonBytes": 7289007,
+      "compressedBase64Bytes": 2002560
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 12081,
+      "rawJsonBytes": 12091,
       "compressedBase64Bytes": 4016
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
-      "rawJsonBytes": 9062,
-      "compressedBase64Bytes": 2576
+      "rawJsonBytes": 9114,
+      "compressedBase64Bytes": 2580
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 983969,
-      "compressedBase64Bytes": 252540
+      "rawJsonBytes": 1027557,
+      "compressedBase64Bytes": 264076
     }
   },
   "heatmap": {
