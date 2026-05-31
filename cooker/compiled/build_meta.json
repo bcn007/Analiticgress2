@@ -1,22 +1,22 @@
 {
-  "builtAt": "2026-05-30T10:26:51.812522+00:00",
+  "builtAt": "2026-05-31T10:37:10.953035+00:00",
   "rawDir": "/home/runner/work/Analiticgress2/Analiticgress2/cooker/raw",
-  "filesRead": 44,
-  "recordsRead": 455997,
-  "recordsUnique": 454882,
-  "duplicatesSkipped": 1115,
-  "agents": 506,
-  "portals": 37325,
-  "cookedEvents": 453466,
-  "cookedChunks": 10,
-  "cookedRawJsonBytes": 153413592,
-  "cookedCompressedBase64Bytes": 30021756,
-  "scalableDays": 44,
+  "filesRead": 50,
+  "recordsRead": 483459,
+  "recordsUnique": 482339,
+  "duplicatesSkipped": 1120,
+  "agents": 699,
+  "portals": 44793,
+  "cookedEvents": 480922,
+  "cookedChunks": 11,
+  "cookedRawJsonBytes": 162902516,
+  "cookedCompressedBase64Bytes": 31981016,
+  "scalableDays": 45,
   "scalableSummaries": {
     "global": {
       "path": "summaries/global.json.gz.b64.txt",
-      "rawJsonBytes": 386,
-      "compressedBase64Bytes": 368
+      "rawJsonBytes": 387,
+      "compressedBase64Bytes": 372
     },
     "months": {
       "path": "summaries/months.json.gz.b64.txt",
@@ -25,28 +25,28 @@
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 657421,
-      "compressedBase64Bytes": 169888
+      "rawJsonBytes": 886666,
+      "compressedBase64Bytes": 219272
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 7348855,
-      "compressedBase64Bytes": 2020436
+      "rawJsonBytes": 8580037,
+      "compressedBase64Bytes": 2386048
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 12117,
-      "compressedBase64Bytes": 4024
+      "rawJsonBytes": 11997,
+      "compressedBase64Bytes": 4004
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
-      "rawJsonBytes": 9140,
-      "compressedBase64Bytes": 2588
+      "rawJsonBytes": 9162,
+      "compressedBase64Bytes": 2596
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1051389,
-      "compressedBase64Bytes": 270424
+      "rawJsonBytes": 1151854,
+      "compressedBase64Bytes": 296096
     }
   },
   "schema": "bot-references-v1",
