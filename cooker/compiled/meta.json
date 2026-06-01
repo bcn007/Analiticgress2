@@ -1,460 +1,469 @@
 {
   "schema": 2,
-  "builtAt": "2026-05-31T10:37:10.953035+00:00",
+  "builtAt": "2026-06-01T20:11:43.967679+00:00",
   "generator": "python-static-cooker",
   "timezone": "Europe/Madrid",
   "dayKeyAlgo": "Europe/Madrid local date",
   "sessionGapMs": 14400000,
   "sidAlgo": "sha1-10",
   "openSessionSidAlgo": "sha1-10-agent-start-end",
-  "eventCount": 480922,
-  "sourceFiles": 50,
-  "recordsRead": 483459,
+  "eventCount": 755412,
+  "sourceFiles": 92,
+  "recordsRead": 758439,
   "firstTs": 1776354382830,
-  "lastTs": 1780178176240,
-  "dayCount": 45,
+  "lastTs": 1780264737986,
+  "dayCount": 46,
   "days": [
     {
       "day": "2026-04-16",
       "path": "events/2026/04/2026-04-16.json.gz.b64.txt",
-      "eventCount": 4038,
+      "eventCount": 6809,
       "firstTs": 1776354382830,
-      "lastTs": 1776376681577,
-      "rawJsonBytes": 1371961,
-      "compressedBase64Bytes": 279260
+      "lastTs": 1776376796116,
+      "rawJsonBytes": 2330981,
+      "compressedBase64Bytes": 488996
     },
     {
       "day": "2026-04-17",
       "path": "events/2026/04/2026-04-17.json.gz.b64.txt",
-      "eventCount": 11506,
+      "eventCount": 18447,
       "firstTs": 1776376834591,
       "lastTs": 1776463185638,
-      "rawJsonBytes": 3958401,
-      "compressedBase64Bytes": 814744
+      "rawJsonBytes": 6429406,
+      "compressedBase64Bytes": 1348152
     },
     {
       "day": "2026-04-18",
       "path": "events/2026/04/2026-04-18.json.gz.b64.txt",
-      "eventCount": 7844,
-      "firstTs": 1776463233742,
+      "eventCount": 14657,
+      "firstTs": 1776463201466,
       "lastTs": 1776549583643,
-      "rawJsonBytes": 2790799,
-      "compressedBase64Bytes": 572264
+      "rawJsonBytes": 5221755,
+      "compressedBase64Bytes": 1089816
     },
     {
       "day": "2026-04-19",
       "path": "events/2026/04/2026-04-19.json.gz.b64.txt",
-      "eventCount": 11749,
+      "eventCount": 19885,
       "firstTs": 1776549630544,
-      "lastTs": 1776634785243,
-      "rawJsonBytes": 3962363,
-      "compressedBase64Bytes": 793104
+      "lastTs": 1776635757775,
+      "rawJsonBytes": 6721517,
+      "compressedBase64Bytes": 1375336
     },
     {
       "day": "2026-04-20",
       "path": "events/2026/04/2026-04-20.json.gz.b64.txt",
-      "eventCount": 9367,
-      "firstTs": 1776636226368,
+      "eventCount": 13259,
+      "firstTs": 1776636016521,
       "lastTs": 1776722387204,
-      "rawJsonBytes": 3040837,
-      "compressedBase64Bytes": 600192
+      "rawJsonBytes": 4338570,
+      "compressedBase64Bytes": 875200
     },
     {
       "day": "2026-04-21",
       "path": "events/2026/04/2026-04-21.json.gz.b64.txt",
-      "eventCount": 6619,
+      "eventCount": 10558,
       "firstTs": 1776722410740,
       "lastTs": 1776808560154,
-      "rawJsonBytes": 2136779,
-      "compressedBase64Bytes": 429824
+      "rawJsonBytes": 3421484,
+      "compressedBase64Bytes": 701984
     },
     {
       "day": "2026-04-22",
       "path": "events/2026/04/2026-04-22.json.gz.b64.txt",
-      "eventCount": 7651,
-      "firstTs": 1776808903506,
-      "lastTs": 1776894415314,
-      "rawJsonBytes": 2485806,
-      "compressedBase64Bytes": 493008
+      "eventCount": 10920,
+      "firstTs": 1776808861588,
+      "lastTs": 1776895140917,
+      "rawJsonBytes": 3556534,
+      "compressedBase64Bytes": 718208
     },
     {
       "day": "2026-04-23",
       "path": "events/2026/04/2026-04-23.json.gz.b64.txt",
-      "eventCount": 7251,
-      "firstTs": 1776895367106,
+      "eventCount": 11141,
+      "firstTs": 1776895204839,
       "lastTs": 1776981559380,
-      "rawJsonBytes": 2335848,
-      "compressedBase64Bytes": 474536
+      "rawJsonBytes": 3601865,
+      "compressedBase64Bytes": 743160
     },
     {
       "day": "2026-04-24",
       "path": "events/2026/04/2026-04-24.json.gz.b64.txt",
-      "eventCount": 7276,
+      "eventCount": 11940,
       "firstTs": 1776981607016,
-      "lastTs": 1777067915209,
-      "rawJsonBytes": 2407758,
-      "compressedBase64Bytes": 456200
+      "lastTs": 1777067999694,
+      "rawJsonBytes": 3929257,
+      "compressedBase64Bytes": 767532
     },
     {
       "day": "2026-04-25",
       "path": "events/2026/04/2026-04-25.json.gz.b64.txt",
-      "eventCount": 16544,
-      "firstTs": 1777068110266,
-      "lastTs": 1777154145970,
-      "rawJsonBytes": 5481140,
-      "compressedBase64Bytes": 1018672
+      "eventCount": 24285,
+      "firstTs": 1777068003866,
+      "lastTs": 1777154390339,
+      "rawJsonBytes": 8052914,
+      "compressedBase64Bytes": 1554388
     },
     {
       "day": "2026-04-26",
       "path": "events/2026/04/2026-04-26.json.gz.b64.txt",
-      "eventCount": 16892,
+      "eventCount": 24691,
       "firstTs": 1777154406488,
-      "lastTs": 1777238967059,
-      "rawJsonBytes": 5563825,
-      "compressedBase64Bytes": 1016244
+      "lastTs": 1777239947687,
+      "rawJsonBytes": 8133540,
+      "compressedBase64Bytes": 1539852
     },
     {
       "day": "2026-04-27",
       "path": "events/2026/04/2026-04-27.json.gz.b64.txt",
-      "eventCount": 14245,
+      "eventCount": 24144,
       "firstTs": 1777240924045,
-      "lastTs": 1777326362395,
-      "rawJsonBytes": 4795538,
-      "compressedBase64Bytes": 923484
+      "lastTs": 1777326596587,
+      "rawJsonBytes": 8208354,
+      "compressedBase64Bytes": 1584384
     },
     {
       "day": "2026-04-28",
       "path": "events/2026/04/2026-04-28.json.gz.b64.txt",
-      "eventCount": 13430,
+      "eventCount": 24501,
       "firstTs": 1777327372928,
-      "lastTs": 1777412810605,
-      "rawJsonBytes": 4472740,
-      "compressedBase64Bytes": 854060
+      "lastTs": 1777413454196,
+      "rawJsonBytes": 8218920,
+      "compressedBase64Bytes": 1589160
     },
     {
       "day": "2026-04-29",
       "path": "events/2026/04/2026-04-29.json.gz.b64.txt",
-      "eventCount": 11059,
+      "eventCount": 19015,
       "firstTs": 1777413610794,
-      "lastTs": 1777499973661,
-      "rawJsonBytes": 3684763,
-      "compressedBase64Bytes": 732932
+      "lastTs": 1777499999662,
+      "rawJsonBytes": 6432527,
+      "compressedBase64Bytes": 1278916
     },
     {
       "day": "2026-04-30",
       "path": "events/2026/04/2026-04-30.json.gz.b64.txt",
-      "eventCount": 13696,
+      "eventCount": 23440,
       "firstTs": 1777500012683,
-      "lastTs": 1777586212490,
-      "rawJsonBytes": 4537036,
-      "compressedBase64Bytes": 885944
+      "lastTs": 1777586396177,
+      "rawJsonBytes": 7806061,
+      "compressedBase64Bytes": 1532768
     },
     {
       "day": "2026-05-01",
       "path": "events/2026/05/2026-05-01.json.gz.b64.txt",
-      "eventCount": 9965,
-      "firstTs": 1777587264189,
-      "lastTs": 1777672498619,
-      "rawJsonBytes": 3266754,
-      "compressedBase64Bytes": 638724
+      "eventCount": 16513,
+      "firstTs": 1777586401777,
+      "lastTs": 1777672768823,
+      "rawJsonBytes": 5479330,
+      "compressedBase64Bytes": 1085704
     },
     {
       "day": "2026-05-02",
       "path": "events/2026/05/2026-05-02.json.gz.b64.txt",
-      "eventCount": 21599,
+      "eventCount": 27662,
       "firstTs": 1777672837345,
-      "lastTs": 1777759035029,
-      "rawJsonBytes": 6982252,
-      "compressedBase64Bytes": 1364484
+      "lastTs": 1777759190858,
+      "rawJsonBytes": 9080014,
+      "compressedBase64Bytes": 1798804
     },
     {
       "day": "2026-05-03",
       "path": "events/2026/05/2026-05-03.json.gz.b64.txt",
-      "eventCount": 9955,
-      "firstTs": 1777759216810,
-      "lastTs": 1777845233573,
-      "rawJsonBytes": 3336146,
-      "compressedBase64Bytes": 628576
+      "eventCount": 17338,
+      "firstTs": 1777759206982,
+      "lastTs": 1777845370922,
+      "rawJsonBytes": 5822550,
+      "compressedBase64Bytes": 1126268
     },
     {
       "day": "2026-05-04",
       "path": "events/2026/05/2026-05-04.json.gz.b64.txt",
-      "eventCount": 10044,
-      "firstTs": 1777845643326,
+      "eventCount": 19061,
+      "firstTs": 1777845641712,
       "lastTs": 1777931913318,
-      "rawJsonBytes": 3395475,
-      "compressedBase64Bytes": 658320
+      "rawJsonBytes": 6457886,
+      "compressedBase64Bytes": 1270660
     },
     {
       "day": "2026-05-05",
       "path": "events/2026/05/2026-05-05.json.gz.b64.txt",
-      "eventCount": 12060,
-      "firstTs": 1777932043767,
-      "lastTs": 1778018333740,
-      "rawJsonBytes": 4043760,
-      "compressedBase64Bytes": 789900
+      "eventCount": 21071,
+      "firstTs": 1777932028650,
+      "lastTs": 1778018388769,
+      "rawJsonBytes": 7149282,
+      "compressedBase64Bytes": 1424836
     },
     {
       "day": "2026-05-06",
       "path": "events/2026/05/2026-05-06.json.gz.b64.txt",
-      "eventCount": 11932,
+      "eventCount": 22320,
       "firstTs": 1778018428005,
       "lastTs": 1778104734860,
-      "rawJsonBytes": 3951744,
-      "compressedBase64Bytes": 770608
+      "rawJsonBytes": 7473198,
+      "compressedBase64Bytes": 1482396
     },
     {
       "day": "2026-05-07",
       "path": "events/2026/05/2026-05-07.json.gz.b64.txt",
-      "eventCount": 15103,
-      "firstTs": 1778104995774,
+      "eventCount": 23196,
+      "firstTs": 1778104948688,
       "lastTs": 1778191099715,
-      "rawJsonBytes": 5013146,
-      "compressedBase64Bytes": 975692
+      "rawJsonBytes": 7817182,
+      "compressedBase64Bytes": 1525692
     },
     {
       "day": "2026-05-08",
       "path": "events/2026/05/2026-05-08.json.gz.b64.txt",
-      "eventCount": 9819,
+      "eventCount": 17961,
       "firstTs": 1778191261504,
-      "lastTs": 1778277526474,
-      "rawJsonBytes": 3370433,
-      "compressedBase64Bytes": 667392
+      "lastTs": 1778277597578,
+      "rawJsonBytes": 6204643,
+      "compressedBase64Bytes": 1235288
     },
     {
       "day": "2026-05-09",
       "path": "events/2026/05/2026-05-09.json.gz.b64.txt",
-      "eventCount": 13016,
-      "firstTs": 1778278057076,
+      "eventCount": 19491,
+      "firstTs": 1778277600111,
       "lastTs": 1778363943414,
-      "rawJsonBytes": 4418411,
-      "compressedBase64Bytes": 833276
+      "rawJsonBytes": 6674529,
+      "compressedBase64Bytes": 1295140
     },
     {
       "day": "2026-05-10",
       "path": "events/2026/05/2026-05-10.json.gz.b64.txt",
-      "eventCount": 14567,
+      "eventCount": 22543,
       "firstTs": 1778364002372,
       "lastTs": 1778450373083,
-      "rawJsonBytes": 4929170,
-      "compressedBase64Bytes": 960388
+      "rawJsonBytes": 7719909,
+      "compressedBase64Bytes": 1516080
     },
     {
       "day": "2026-05-11",
       "path": "events/2026/05/2026-05-11.json.gz.b64.txt",
-      "eventCount": 10373,
-      "firstTs": 1778450539373,
+      "eventCount": 17467,
+      "firstTs": 1778450492802,
       "lastTs": 1778536761479,
-      "rawJsonBytes": 3569404,
-      "compressedBase64Bytes": 689020
+      "rawJsonBytes": 6084935,
+      "compressedBase64Bytes": 1178932
     },
     {
       "day": "2026-05-12",
       "path": "events/2026/05/2026-05-12.json.gz.b64.txt",
-      "eventCount": 10249,
+      "eventCount": 16685,
       "firstTs": 1778536918484,
-      "lastTs": 1778623044003,
-      "rawJsonBytes": 3494575,
-      "compressedBase64Bytes": 688444
+      "lastTs": 1778623170425,
+      "rawJsonBytes": 5788616,
+      "compressedBase64Bytes": 1153512
     },
     {
       "day": "2026-05-13",
       "path": "events/2026/05/2026-05-13.json.gz.b64.txt",
-      "eventCount": 7566,
-      "firstTs": 1778623288268,
+      "eventCount": 14697,
+      "firstTs": 1778623220047,
       "lastTs": 1778709559400,
-      "rawJsonBytes": 2637177,
-      "compressedBase64Bytes": 527908
+      "rawJsonBytes": 5095738,
+      "compressedBase64Bytes": 1024524
     },
     {
       "day": "2026-05-14",
       "path": "events/2026/05/2026-05-14.json.gz.b64.txt",
-      "eventCount": 10407,
+      "eventCount": 15150,
       "firstTs": 1778709696268,
       "lastTs": 1778795958848,
-      "rawJsonBytes": 3533459,
-      "compressedBase64Bytes": 711640
+      "rawJsonBytes": 5240775,
+      "compressedBase64Bytes": 1066648
     },
     {
       "day": "2026-05-15",
       "path": "events/2026/05/2026-05-15.json.gz.b64.txt",
-      "eventCount": 10000,
+      "eventCount": 15271,
       "firstTs": 1778796016453,
-      "lastTs": 1778881963061,
-      "rawJsonBytes": 3393053,
-      "compressedBase64Bytes": 674256
+      "lastTs": 1778882320636,
+      "rawJsonBytes": 5272518,
+      "compressedBase64Bytes": 1057436
     },
     {
       "day": "2026-05-16",
       "path": "events/2026/05/2026-05-16.json.gz.b64.txt",
-      "eventCount": 7772,
+      "eventCount": 11683,
       "firstTs": 1778882452694,
       "lastTs": 1778968749431,
-      "rawJsonBytes": 2731245,
-      "compressedBase64Bytes": 540196
+      "rawJsonBytes": 4154453,
+      "compressedBase64Bytes": 830776
     },
     {
       "day": "2026-05-17",
       "path": "events/2026/05/2026-05-17.json.gz.b64.txt",
-      "eventCount": 8533,
+      "eventCount": 13096,
       "firstTs": 1778968830521,
       "lastTs": 1779055003747,
-      "rawJsonBytes": 2986674,
-      "compressedBase64Bytes": 592428
+      "rawJsonBytes": 4654630,
+      "compressedBase64Bytes": 927984
     },
     {
       "day": "2026-05-18",
       "path": "events/2026/05/2026-05-18.json.gz.b64.txt",
-      "eventCount": 8036,
+      "eventCount": 13529,
       "firstTs": 1779055303839,
       "lastTs": 1779141583909,
-      "rawJsonBytes": 2802341,
-      "compressedBase64Bytes": 552972
+      "rawJsonBytes": 4786776,
+      "compressedBase64Bytes": 955056
     },
     {
       "day": "2026-05-19",
       "path": "events/2026/05/2026-05-19.json.gz.b64.txt",
-      "eventCount": 5943,
+      "eventCount": 10571,
       "firstTs": 1779141648357,
       "lastTs": 1779227935586,
-      "rawJsonBytes": 2089307,
-      "compressedBase64Bytes": 403596
+      "rawJsonBytes": 3732848,
+      "compressedBase64Bytes": 739612
     },
     {
       "day": "2026-05-20",
       "path": "events/2026/05/2026-05-20.json.gz.b64.txt",
-      "eventCount": 8636,
+      "eventCount": 12206,
       "firstTs": 1779228051440,
       "lastTs": 1779314364789,
-      "rawJsonBytes": 3000373,
-      "compressedBase64Bytes": 592596
+      "rawJsonBytes": 4375158,
+      "compressedBase64Bytes": 870132
     },
     {
       "day": "2026-05-21",
       "path": "events/2026/05/2026-05-21.json.gz.b64.txt",
-      "eventCount": 9331,
+      "eventCount": 13361,
       "firstTs": 1779314477264,
-      "lastTs": 1779400351881,
-      "rawJsonBytes": 3219348,
-      "compressedBase64Bytes": 639820
+      "lastTs": 1779400798026,
+      "rawJsonBytes": 4732629,
+      "compressedBase64Bytes": 949232
     },
     {
       "day": "2026-05-22",
       "path": "events/2026/05/2026-05-22.json.gz.b64.txt",
-      "eventCount": 8191,
+      "eventCount": 13055,
       "firstTs": 1779401031284,
       "lastTs": 1779487191457,
-      "rawJsonBytes": 2843585,
-      "compressedBase64Bytes": 581156
+      "rawJsonBytes": 4633232,
+      "compressedBase64Bytes": 946816
     },
     {
       "day": "2026-05-23",
       "path": "events/2026/05/2026-05-23.json.gz.b64.txt",
-      "eventCount": 12250,
+      "eventCount": 17965,
       "firstTs": 1779487260218,
-      "lastTs": 1779573557702,
-      "rawJsonBytes": 4168074,
-      "compressedBase64Bytes": 834304
+      "lastTs": 1779573592411,
+      "rawJsonBytes": 6272673,
+      "compressedBase64Bytes": 1270900
     },
     {
       "day": "2026-05-24",
       "path": "events/2026/05/2026-05-24.json.gz.b64.txt",
-      "eventCount": 9051,
-      "firstTs": 1779573782282,
-      "lastTs": 1779659873268,
-      "rawJsonBytes": 3176918,
-      "compressedBase64Bytes": 627152
+      "eventCount": 14526,
+      "firstTs": 1779573608460,
+      "lastTs": 1779659955083,
+      "rawJsonBytes": 5163928,
+      "compressedBase64Bytes": 1032668
     },
     {
       "day": "2026-05-25",
       "path": "events/2026/05/2026-05-25.json.gz.b64.txt",
-      "eventCount": 7330,
+      "eventCount": 12129,
       "firstTs": 1779660093459,
       "lastTs": 1779746379404,
-      "rawJsonBytes": 2608282,
-      "compressedBase64Bytes": 509444
+      "rawJsonBytes": 4395423,
+      "compressedBase64Bytes": 877660
     },
     {
       "day": "2026-05-26",
       "path": "events/2026/05/2026-05-26.json.gz.b64.txt",
-      "eventCount": 11033,
+      "eventCount": 14541,
       "firstTs": 1779746447175,
-      "lastTs": 1779832203286,
-      "rawJsonBytes": 3845220,
-      "compressedBase64Bytes": 762756
+      "lastTs": 1779832764161,
+      "rawJsonBytes": 5181560,
+      "compressedBase64Bytes": 1033032
     },
     {
       "day": "2026-05-27",
       "path": "events/2026/05/2026-05-27.json.gz.b64.txt",
-      "eventCount": 10710,
-      "firstTs": 1779832955497,
+      "eventCount": 13944,
+      "firstTs": 1779832818170,
       "lastTs": 1779919158620,
-      "rawJsonBytes": 3757291,
-      "compressedBase64Bytes": 721076
+      "rawJsonBytes": 5032898,
+      "compressedBase64Bytes": 976780
     },
     {
       "day": "2026-05-28",
       "path": "events/2026/05/2026-05-28.json.gz.b64.txt",
-      "eventCount": 13134,
-      "firstTs": 1779919505480,
+      "eventCount": 13265,
+      "firstTs": 1779919257683,
       "lastTs": 1780005591377,
-      "rawJsonBytes": 4608040,
-      "compressedBase64Bytes": 921092
+      "rawJsonBytes": 4780169,
+      "compressedBase64Bytes": 946232
     },
     {
       "day": "2026-05-29",
       "path": "events/2026/05/2026-05-29.json.gz.b64.txt",
-      "eventCount": 11659,
+      "eventCount": 12260,
       "firstTs": 1780005654038,
-      "lastTs": 1780091925742,
-      "rawJsonBytes": 4133750,
-      "compressedBase64Bytes": 836720
+      "lastTs": 1780091989482,
+      "rawJsonBytes": 4398719,
+      "compressedBase64Bytes": 878420
     },
     {
       "day": "2026-05-30",
       "path": "events/2026/05/2026-05-30.json.gz.b64.txt",
-      "eventCount": 13491,
+      "eventCount": 11635,
       "firstTs": 1780092081818,
-      "lastTs": 1780178176240,
-      "rawJsonBytes": 4573382,
-      "compressedBase64Bytes": 970776
+      "lastTs": 1780178291659,
+      "rawJsonBytes": 4265779,
+      "compressedBase64Bytes": 856980
+    },
+    {
+      "day": "2026-05-31",
+      "path": "events/2026/05/2026-05-31.json.gz.b64.txt",
+      "eventCount": 13528,
+      "firstTs": 1780178446758,
+      "lastTs": 1780264737986,
+      "rawJsonBytes": 4906066,
+      "compressedBase64Bytes": 972628
     }
   ],
   "summaries": {
     "global": {
       "path": "summaries/global.json.gz.b64.txt",
-      "rawJsonBytes": 387,
-      "compressedBase64Bytes": 372
+      "rawJsonBytes": 392,
+      "compressedBase64Bytes": 368
     },
     "months": {
       "path": "summaries/months.json.gz.b64.txt",
-      "rawJsonBytes": 510,
-      "compressedBase64Bytes": 372
+      "rawJsonBytes": 515,
+      "compressedBase64Bytes": 384
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 886666,
-      "compressedBase64Bytes": 219272
+      "rawJsonBytes": 1142404,
+      "compressedBase64Bytes": 291908
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 8580037,
-      "compressedBase64Bytes": 2386048
+      "rawJsonBytes": 13612091,
+      "compressedBase64Bytes": 3843888
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 11997,
-      "compressedBase64Bytes": 4004
+      "rawJsonBytes": 12165,
+      "compressedBase64Bytes": 4196
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
-      "rawJsonBytes": 9162,
-      "compressedBase64Bytes": 2596
+      "rawJsonBytes": 9120,
+      "compressedBase64Bytes": 2692
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1151854,
-      "compressedBase64Bytes": 296096
+      "rawJsonBytes": 1784168,
+      "compressedBase64Bytes": 458892
     }
   },
   "heatmap": {
