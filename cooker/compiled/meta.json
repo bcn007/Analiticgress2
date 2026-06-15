@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "builtAt": "2026-06-14T11:45:37.743779+00:00",
+  "builtAt": "2026-06-15T19:13:35.450661+00:00",
   "generator": "python-static-cooker",
   "timezone": "Europe/Madrid",
   "dayKeyAlgo": "Europe/Madrid local date",
   "sessionGapMs": 14400000,
   "sidAlgo": "sha1-10",
   "openSessionSidAlgo": "sha1-10-agent-start-end",
-  "eventCount": 1114941,
-  "sourceFiles": 175,
-  "recordsRead": 1119711,
+  "eventCount": 1132138,
+  "sourceFiles": 177,
+  "recordsRead": 1136913,
   "firstTs": 1776353687522,
-  "lastTs": 1781387956453,
-  "dayCount": 59,
+  "lastTs": 1781474371220,
+  "dayCount": 60,
   "days": [
     {
       "day": "2026-04-16",
@@ -119,8 +119,8 @@
       "eventCount": 26269,
       "firstTs": 1777240924045,
       "lastTs": 1777326596587,
-      "rawJsonBytes": 9551997,
-      "compressedBase64Bytes": 1757148
+      "rawJsonBytes": 9567402,
+      "compressedBase64Bytes": 1757288
     },
     {
       "day": "2026-04-28",
@@ -128,8 +128,8 @@
       "eventCount": 26884,
       "firstTs": 1777327372928,
       "lastTs": 1777413528193,
-      "rawJsonBytes": 9548562,
-      "compressedBase64Bytes": 1767876
+      "rawJsonBytes": 9561198,
+      "compressedBase64Bytes": 1768040
     },
     {
       "day": "2026-04-29",
@@ -137,8 +137,8 @@
       "eventCount": 21285,
       "firstTs": 1777413610794,
       "lastTs": 1777499999662,
-      "rawJsonBytes": 7569935,
-      "compressedBase64Bytes": 1447148
+      "rawJsonBytes": 7578658,
+      "compressedBase64Bytes": 1447292
     },
     {
       "day": "2026-04-30",
@@ -146,8 +146,8 @@
       "eventCount": 25264,
       "firstTs": 1777500012683,
       "lastTs": 1777586396177,
-      "rawJsonBytes": 8793713,
-      "compressedBase64Bytes": 1684712
+      "rawJsonBytes": 8802943,
+      "compressedBase64Bytes": 1684944
     },
     {
       "day": "2026-05-01",
@@ -155,8 +155,8 @@
       "eventCount": 18991,
       "firstTs": 1777586401777,
       "lastTs": 1777672768823,
-      "rawJsonBytes": 6578655,
-      "compressedBase64Bytes": 1269932
+      "rawJsonBytes": 6585402,
+      "compressedBase64Bytes": 1270080
     },
     {
       "day": "2026-05-02",
@@ -164,8 +164,8 @@
       "eventCount": 29395,
       "firstTs": 1777672837345,
       "lastTs": 1777759190858,
-      "rawJsonBytes": 9979399,
-      "compressedBase64Bytes": 1942672
+      "rawJsonBytes": 9987498,
+      "compressedBase64Bytes": 1942892
     },
     {
       "day": "2026-05-03",
@@ -173,8 +173,8 @@
       "eventCount": 20027,
       "firstTs": 1777759206982,
       "lastTs": 1777845370922,
-      "rawJsonBytes": 7086705,
-      "compressedBase64Bytes": 1328492
+      "rawJsonBytes": 7095818,
+      "compressedBase64Bytes": 1328780
     },
     {
       "day": "2026-05-04",
@@ -182,8 +182,8 @@
       "eventCount": 21714,
       "firstTs": 1777845641712,
       "lastTs": 1777931913318,
-      "rawJsonBytes": 7780623,
-      "compressedBase64Bytes": 1474728
+      "rawJsonBytes": 7791530,
+      "compressedBase64Bytes": 1475008
     },
     {
       "day": "2026-05-05",
@@ -191,8 +191,8 @@
       "eventCount": 23670,
       "firstTs": 1777932028650,
       "lastTs": 1778018388769,
-      "rawJsonBytes": 8498133,
-      "compressedBase64Bytes": 1627616
+      "rawJsonBytes": 8510353,
+      "compressedBase64Bytes": 1627936
     },
     {
       "day": "2026-05-06",
@@ -200,8 +200,8 @@
       "eventCount": 25077,
       "firstTs": 1778018428005,
       "lastTs": 1778104734860,
-      "rawJsonBytes": 8738443,
-      "compressedBase64Bytes": 1688208
+      "rawJsonBytes": 8747192,
+      "compressedBase64Bytes": 1688484
     },
     {
       "day": "2026-05-07",
@@ -209,8 +209,8 @@
       "eventCount": 25880,
       "firstTs": 1778104901046,
       "lastTs": 1778191192614,
-      "rawJsonBytes": 9167630,
-      "compressedBase64Bytes": 1735260
+      "rawJsonBytes": 9180422,
+      "compressedBase64Bytes": 1735612
     },
     {
       "day": "2026-05-08",
@@ -218,8 +218,8 @@
       "eventCount": 20408,
       "firstTs": 1778191213748,
       "lastTs": 1778277597578,
-      "rawJsonBytes": 7520660,
-      "compressedBase64Bytes": 1422092
+      "rawJsonBytes": 7533894,
+      "compressedBase64Bytes": 1422384
     },
     {
       "day": "2026-05-09",
@@ -227,8 +227,8 @@
       "eventCount": 21107,
       "firstTs": 1778277600111,
       "lastTs": 1778363943414,
-      "rawJsonBytes": 7593131,
-      "compressedBase64Bytes": 1430816
+      "rawJsonBytes": 7603973,
+      "compressedBase64Bytes": 1431208
     },
     {
       "day": "2026-05-10",
@@ -236,8 +236,8 @@
       "eventCount": 25233,
       "firstTs": 1778364002372,
       "lastTs": 1778450373083,
-      "rawJsonBytes": 9068090,
-      "compressedBase64Bytes": 1730616
+      "rawJsonBytes": 9080700,
+      "compressedBase64Bytes": 1731044
     },
     {
       "day": "2026-05-11",
@@ -245,8 +245,8 @@
       "eventCount": 18957,
       "firstTs": 1778450492802,
       "lastTs": 1778536761479,
-      "rawJsonBytes": 7072342,
-      "compressedBase64Bytes": 1305548
+      "rawJsonBytes": 7086174,
+      "compressedBase64Bytes": 1305840
     },
     {
       "day": "2026-05-12",
@@ -254,8 +254,8 @@
       "eventCount": 18007,
       "firstTs": 1778536918484,
       "lastTs": 1778623170425,
-      "rawJsonBytes": 6802833,
-      "compressedBase64Bytes": 1274372
+      "rawJsonBytes": 6818602,
+      "compressedBase64Bytes": 1274760
     },
     {
       "day": "2026-05-13",
@@ -263,8 +263,8 @@
       "eventCount": 15766,
       "firstTs": 1778623220047,
       "lastTs": 1778709559400,
-      "rawJsonBytes": 5957400,
-      "compressedBase64Bytes": 1121560
+      "rawJsonBytes": 5971206,
+      "compressedBase64Bytes": 1121788
     },
     {
       "day": "2026-05-14",
@@ -272,8 +272,8 @@
       "eventCount": 15950,
       "firstTs": 1778709696268,
       "lastTs": 1778795958848,
-      "rawJsonBytes": 6041403,
-      "compressedBase64Bytes": 1153432
+      "rawJsonBytes": 6056236,
+      "compressedBase64Bytes": 1153728
     },
     {
       "day": "2026-05-15",
@@ -281,8 +281,8 @@
       "eventCount": 16069,
       "firstTs": 1778796016453,
       "lastTs": 1778882320636,
-      "rawJsonBytes": 6064354,
-      "compressedBase64Bytes": 1144644
+      "rawJsonBytes": 6079239,
+      "compressedBase64Bytes": 1145040
     },
     {
       "day": "2026-05-16",
@@ -290,8 +290,8 @@
       "eventCount": 13311,
       "firstTs": 1778882452694,
       "lastTs": 1778968749431,
-      "rawJsonBytes": 5225911,
-      "compressedBase64Bytes": 965048
+      "rawJsonBytes": 5240614,
+      "compressedBase64Bytes": 965344
     },
     {
       "day": "2026-05-17",
@@ -299,8 +299,8 @@
       "eventCount": 14024,
       "firstTs": 1778968830521,
       "lastTs": 1779055003747,
-      "rawJsonBytes": 5552661,
-      "compressedBase64Bytes": 1021140
+      "rawJsonBytes": 5568937,
+      "compressedBase64Bytes": 1021380
     },
     {
       "day": "2026-05-18",
@@ -308,8 +308,8 @@
       "eventCount": 14679,
       "firstTs": 1779055303839,
       "lastTs": 1779141583909,
-      "rawJsonBytes": 5783413,
-      "compressedBase64Bytes": 1061260
+      "rawJsonBytes": 5800274,
+      "compressedBase64Bytes": 1061500
     },
     {
       "day": "2026-05-19",
@@ -317,8 +317,8 @@
       "eventCount": 11631,
       "firstTs": 1779141648357,
       "lastTs": 1779227935586,
-      "rawJsonBytes": 4533950,
-      "compressedBase64Bytes": 835484
+      "rawJsonBytes": 4545546,
+      "compressedBase64Bytes": 835656
     },
     {
       "day": "2026-05-20",
@@ -326,8 +326,8 @@
       "eventCount": 13265,
       "firstTs": 1779228051440,
       "lastTs": 1779314364789,
-      "rawJsonBytes": 5370992,
-      "compressedBase64Bytes": 969552
+      "rawJsonBytes": 5388633,
+      "compressedBase64Bytes": 969756
     },
     {
       "day": "2026-05-21",
@@ -335,8 +335,8 @@
       "eventCount": 14099,
       "firstTs": 1779314477264,
       "lastTs": 1779400798026,
-      "rawJsonBytes": 5646042,
-      "compressedBase64Bytes": 1028824
+      "rawJsonBytes": 5663995,
+      "compressedBase64Bytes": 1029040
     },
     {
       "day": "2026-05-22",
@@ -344,8 +344,8 @@
       "eventCount": 13620,
       "firstTs": 1779401031284,
       "lastTs": 1779487191457,
-      "rawJsonBytes": 5448513,
-      "compressedBase64Bytes": 1009936
+      "rawJsonBytes": 5465582,
+      "compressedBase64Bytes": 1010176
     },
     {
       "day": "2026-05-23",
@@ -353,8 +353,8 @@
       "eventCount": 19779,
       "firstTs": 1779487260218,
       "lastTs": 1779573592411,
-      "rawJsonBytes": 7533820,
-      "compressedBase64Bytes": 1432644
+      "rawJsonBytes": 7552007,
+      "compressedBase64Bytes": 1432916
     },
     {
       "day": "2026-05-24",
@@ -362,8 +362,8 @@
       "eventCount": 16076,
       "firstTs": 1779573608460,
       "lastTs": 1779659955083,
-      "rawJsonBytes": 6313411,
-      "compressedBase64Bytes": 1165448
+      "rawJsonBytes": 6331247,
+      "compressedBase64Bytes": 1165976
     },
     {
       "day": "2026-05-25",
@@ -371,8 +371,8 @@
       "eventCount": 12742,
       "firstTs": 1779660093459,
       "lastTs": 1779746379404,
-      "rawJsonBytes": 5278942,
-      "compressedBase64Bytes": 945636
+      "rawJsonBytes": 5297571,
+      "compressedBase64Bytes": 945772
     },
     {
       "day": "2026-05-26",
@@ -380,8 +380,8 @@
       "eventCount": 15862,
       "firstTs": 1779746447175,
       "lastTs": 1779832786825,
-      "rawJsonBytes": 6356409,
-      "compressedBase64Bytes": 1152092
+      "rawJsonBytes": 6376689,
+      "compressedBase64Bytes": 1152360
     },
     {
       "day": "2026-05-27",
@@ -389,8 +389,8 @@
       "eventCount": 15195,
       "firstTs": 1779832818170,
       "lastTs": 1779919158620,
-      "rawJsonBytes": 6176677,
-      "compressedBase64Bytes": 1092148
+      "rawJsonBytes": 6196281,
+      "compressedBase64Bytes": 1092380
     },
     {
       "day": "2026-05-28",
@@ -398,8 +398,8 @@
       "eventCount": 14382,
       "firstTs": 1779919257683,
       "lastTs": 1780005591377,
-      "rawJsonBytes": 5901755,
-      "compressedBase64Bytes": 1049392
+      "rawJsonBytes": 5921606,
+      "compressedBase64Bytes": 1049652
     },
     {
       "day": "2026-05-29",
@@ -407,8 +407,8 @@
       "eventCount": 13072,
       "firstTs": 1780005654038,
       "lastTs": 1780091989482,
-      "rawJsonBytes": 5278554,
-      "compressedBase64Bytes": 959844
+      "rawJsonBytes": 5295363,
+      "compressedBase64Bytes": 960024
     },
     {
       "day": "2026-05-30",
@@ -416,8 +416,8 @@
       "eventCount": 12771,
       "firstTs": 1780092081818,
       "lastTs": 1780178291659,
-      "rawJsonBytes": 5339640,
-      "compressedBase64Bytes": 957964
+      "rawJsonBytes": 5359062,
+      "compressedBase64Bytes": 958112
     },
     {
       "day": "2026-05-31",
@@ -425,8 +425,8 @@
       "eventCount": 14194,
       "firstTs": 1780178446758,
       "lastTs": 1780264792330,
-      "rawJsonBytes": 5919434,
-      "compressedBase64Bytes": 1049120
+      "rawJsonBytes": 5940065,
+      "compressedBase64Bytes": 1049328
     },
     {
       "day": "2026-06-01",
@@ -434,8 +434,8 @@
       "eventCount": 15858,
       "firstTs": 1780264812194,
       "lastTs": 1780351191567,
-      "rawJsonBytes": 6556732,
-      "compressedBase64Bytes": 1169348
+      "rawJsonBytes": 6579001,
+      "compressedBase64Bytes": 1169672
     },
     {
       "day": "2026-06-02",
@@ -443,8 +443,8 @@
       "eventCount": 25030,
       "firstTs": 1780351216417,
       "lastTs": 1780437569078,
-      "rawJsonBytes": 9662261,
-      "compressedBase64Bytes": 1813064
+      "rawJsonBytes": 9685934,
+      "compressedBase64Bytes": 1813552
     },
     {
       "day": "2026-06-03",
@@ -452,8 +452,8 @@
       "eventCount": 18797,
       "firstTs": 1780437616827,
       "lastTs": 1780523919813,
-      "rawJsonBytes": 7489194,
-      "compressedBase64Bytes": 1377796
+      "rawJsonBytes": 7511541,
+      "compressedBase64Bytes": 1378124
     },
     {
       "day": "2026-06-04",
@@ -461,8 +461,8 @@
       "eventCount": 16222,
       "firstTs": 1780524019983,
       "lastTs": 1780610395325,
-      "rawJsonBytes": 6602437,
-      "compressedBase64Bytes": 1202540
+      "rawJsonBytes": 6624238,
+      "compressedBase64Bytes": 1202788
     },
     {
       "day": "2026-06-05",
@@ -470,8 +470,8 @@
       "eventCount": 18684,
       "firstTs": 1780610429189,
       "lastTs": 1780696797355,
-      "rawJsonBytes": 7555494,
-      "compressedBase64Bytes": 1395704
+      "rawJsonBytes": 7579440,
+      "compressedBase64Bytes": 1396112
     },
     {
       "day": "2026-06-06",
@@ -479,8 +479,8 @@
       "eventCount": 44287,
       "firstTs": 1780696836928,
       "lastTs": 1780783192144,
-      "rawJsonBytes": 15782219,
-      "compressedBase64Bytes": 3029244
+      "rawJsonBytes": 15806490,
+      "compressedBase64Bytes": 3030052
     },
     {
       "day": "2026-06-07",
@@ -488,8 +488,8 @@
       "eventCount": 24965,
       "firstTs": 1780783214097,
       "lastTs": 1780869594995,
-      "rawJsonBytes": 9790615,
-      "compressedBase64Bytes": 1799956
+      "rawJsonBytes": 9817187,
+      "compressedBase64Bytes": 1800588
     },
     {
       "day": "2026-06-08",
@@ -497,8 +497,8 @@
       "eventCount": 19671,
       "firstTs": 1780869601393,
       "lastTs": 1780955972936,
-      "rawJsonBytes": 7821763,
-      "compressedBase64Bytes": 1443396
+      "rawJsonBytes": 7844565,
+      "compressedBase64Bytes": 1443720
     },
     {
       "day": "2026-06-09",
@@ -506,8 +506,8 @@
       "eventCount": 18780,
       "firstTs": 1780956013022,
       "lastTs": 1781042152588,
-      "rawJsonBytes": 7591481,
-      "compressedBase64Bytes": 1369772
+      "rawJsonBytes": 7615128,
+      "compressedBase64Bytes": 1370092
     },
     {
       "day": "2026-06-10",
@@ -515,8 +515,8 @@
       "eventCount": 26084,
       "firstTs": 1781042405382,
       "lastTs": 1781128712744,
-      "rawJsonBytes": 9988434,
-      "compressedBase64Bytes": 1873964
+      "rawJsonBytes": 10012965,
+      "compressedBase64Bytes": 1874456
     },
     {
       "day": "2026-06-11",
@@ -524,8 +524,8 @@
       "eventCount": 20981,
       "firstTs": 1781128831971,
       "lastTs": 1781215177636,
-      "rawJsonBytes": 8522042,
-      "compressedBase64Bytes": 1545172
+      "rawJsonBytes": 8549121,
+      "compressedBase64Bytes": 1545632
     },
     {
       "day": "2026-06-12",
@@ -533,24 +533,33 @@
       "eventCount": 18468,
       "firstTs": 1781215226188,
       "lastTs": 1781301574436,
-      "rawJsonBytes": 7484528,
-      "compressedBase64Bytes": 1347044
+      "rawJsonBytes": 7508448,
+      "compressedBase64Bytes": 1347348
     },
     {
       "day": "2026-06-13",
       "path": "events/2026/06/2026-06-13.json.gz.b64.txt",
-      "eventCount": 18197,
+      "eventCount": 18206,
       "firstTs": 1781301686366,
-      "lastTs": 1781387956453,
-      "rawJsonBytes": 7476019,
-      "compressedBase64Bytes": 1349584
+      "lastTs": 1781387996499,
+      "rawJsonBytes": 7531899,
+      "compressedBase64Bytes": 1351424
+    },
+    {
+      "day": "2026-06-14",
+      "path": "events/2026/06/2026-06-14.json.gz.b64.txt",
+      "eventCount": 17188,
+      "firstTs": 1781388006231,
+      "lastTs": 1781474371220,
+      "rawJsonBytes": 7271647,
+      "compressedBase64Bytes": 1269848
     }
   ],
   "summaries": {
     "global": {
       "path": "summaries/global.json.gz.b64.txt",
       "rawJsonBytes": 396,
-      "compressedBase64Bytes": 376
+      "compressedBase64Bytes": 372
     },
     "months": {
       "path": "summaries/months.json.gz.b64.txt",
@@ -559,28 +568,28 @@
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1472851,
-      "compressedBase64Bytes": 375496
+      "rawJsonBytes": 1491471,
+      "compressedBase64Bytes": 379428
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 17258906,
-      "compressedBase64Bytes": 4962668
+      "rawJsonBytes": 17418877,
+      "compressedBase64Bytes": 5009056
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 12094,
-      "compressedBase64Bytes": 4192
+      "rawJsonBytes": 12088,
+      "compressedBase64Bytes": 4204
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
-      "rawJsonBytes": 9291,
-      "compressedBase64Bytes": 2760
+      "rawJsonBytes": 9317,
+      "compressedBase64Bytes": 2772
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 2527870,
-      "compressedBase64Bytes": 655468
+      "rawJsonBytes": 2562542,
+      "compressedBase64Bytes": 664840
     }
   },
   "heatmap": {
