@@ -1,22 +1,22 @@
 {
-  "builtAt": "2026-06-21T12:08:39.760520+00:00",
+  "builtAt": "2026-06-22T09:31:21.181655+00:00",
   "rawDir": "/home/runner/work/Analiticgress2/Analiticgress2/cooker/raw",
-  "filesRead": 186,
-  "recordsRead": 1213115,
-  "recordsUnique": 1211117,
-  "duplicatesSkipped": 1998,
-  "agents": 1191,
-  "portals": 90095,
-  "cookedEvents": 1208041,
+  "filesRead": 193,
+  "recordsRead": 1233279,
+  "recordsUnique": 1231271,
+  "duplicatesSkipped": 2008,
+  "agents": 1206,
+  "portals": 91135,
+  "cookedEvents": 1228193,
   "cookedChunks": 28,
-  "cookedRawJsonBytes": 461701287,
-  "cookedCompressedBase64Bytes": 85195896,
+  "cookedRawJsonBytes": 471196027,
+  "cookedCompressedBase64Bytes": 86796852,
   "scalableDays": 66,
   "scalableSummaries": {
     "global": {
       "path": "summaries/global.json.gz.b64.txt",
       "rawJsonBytes": 396,
-      "compressedBase64Bytes": 372
+      "compressedBase64Bytes": 376
     },
     "months": {
       "path": "summaries/months.json.gz.b64.txt",
@@ -25,18 +25,18 @@
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1533776,
-      "compressedBase64Bytes": 390532
+      "rawJsonBytes": 1552600,
+      "compressedBase64Bytes": 394896
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 17968080,
-      "compressedBase64Bytes": 5170528
+      "rawJsonBytes": 18198998,
+      "compressedBase64Bytes": 5237252
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 12081,
-      "compressedBase64Bytes": 4184
+      "rawJsonBytes": 12060,
+      "compressedBase64Bytes": 4156
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
@@ -45,8 +45,8 @@
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 2735294,
-      "compressedBase64Bytes": 711884
+      "rawJsonBytes": 2792611,
+      "compressedBase64Bytes": 726384
     }
   },
   "schema": "bot-references-v1",
