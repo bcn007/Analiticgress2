@@ -75,7 +75,7 @@
     "name": "555Mabel",
     "faction": "Enlightened",
     "MUsgained": 48,
-    "MUssubstracted": 0
+    "MUssubstracted": -31
   },
   {
     "name": "66x45",
@@ -278,7 +278,7 @@
   {
     "name": "AlesJP",
     "faction": "Resistance",
-    "MUsgained": 1966,
+    "MUsgained": 1983,
     "MUssubstracted": -4
   },
   {
@@ -320,7 +320,7 @@
   {
     "name": "aluminico",
     "faction": "Resistance",
-    "MUsgained": 145605,
+    "MUsgained": 147356,
     "MUssubstracted": -107200
   },
   {
@@ -398,7 +398,7 @@
   {
     "name": "Aniquilation",
     "faction": "Enlightened",
-    "MUsgained": 81805,
+    "MUsgained": 81912,
     "MUssubstracted": -13710
   },
   {
@@ -429,7 +429,7 @@
     "name": "Anxeneta",
     "faction": "Enlightened",
     "MUsgained": 1440,
-    "MUssubstracted": 0
+    "MUssubstracted": -6
   },
   {
     "name": "Aphanyus",
@@ -512,7 +512,7 @@
   {
     "name": "Atha24",
     "faction": "Resistance",
-    "MUsgained": 81,
+    "MUsgained": 129,
     "MUssubstracted": 0
   },
   {
@@ -584,7 +584,7 @@
   {
     "name": "B4IL0N",
     "faction": "Enlightened",
-    "MUsgained": 85682,
+    "MUsgained": 85860,
     "MUssubstracted": -6723
   },
   {
@@ -626,7 +626,7 @@
   {
     "name": "barbaverda",
     "faction": "Enlightened",
-    "MUsgained": 397,
+    "MUsgained": 400,
     "MUssubstracted": 0
   },
   {
@@ -644,7 +644,7 @@
   {
     "name": "Batsby",
     "faction": "Resistance",
-    "MUsgained": 821,
+    "MUsgained": 832,
     "MUssubstracted": 0
   },
   {
@@ -656,8 +656,8 @@
   {
     "name": "bbloodd",
     "faction": "Resistance",
-    "MUsgained": 667073,
-    "MUssubstracted": -6797
+    "MUsgained": 670748,
+    "MUssubstracted": -6879
   },
   {
     "name": "be42",
@@ -675,6 +675,12 @@
     "name": "Beerka",
     "faction": "Resistance",
     "MUsgained": 5,
+    "MUssubstracted": 0
+  },
+  {
+    "name": "Belatrix1",
+    "faction": "Resistance",
+    "MUsgained": 0,
     "MUssubstracted": 0
   },
   {
@@ -848,13 +854,13 @@
   {
     "name": "boterut",
     "faction": "Enlightened",
-    "MUsgained": 8565,
+    "MUsgained": 8657,
     "MUssubstracted": -17297
   },
   {
     "name": "BrainyDead",
     "faction": "Enlightened",
-    "MUsgained": 477572,
+    "MUsgained": 491035,
     "MUssubstracted": -8593
   },
   {
@@ -920,7 +926,7 @@
   {
     "name": "bwbsbsbs",
     "faction": "Resistance",
-    "MUsgained": 653103,
+    "MUsgained": 653820,
     "MUssubstracted": -98687
   },
   {
@@ -998,14 +1004,14 @@
   {
     "name": "Cateto75",
     "faction": "Resistance",
-    "MUsgained": 83307,
-    "MUssubstracted": -51351
+    "MUsgained": 83319,
+    "MUssubstracted": -51517
   },
   {
     "name": "CatNeuquen",
     "faction": "Enlightened",
-    "MUsgained": 12015,
-    "MUssubstracted": -21427
+    "MUsgained": 12054,
+    "MUssubstracted": -21960
   },
   {
     "name": "catrapum",
@@ -1016,8 +1022,8 @@
   {
     "name": "Catusi",
     "faction": "Resistance",
-    "MUsgained": 405141,
-    "MUssubstracted": -4580
+    "MUsgained": 424031,
+    "MUssubstracted": -4611
   },
   {
     "name": "cenu",
@@ -1064,8 +1070,8 @@
   {
     "name": "chaosNT",
     "faction": "Resistance",
-    "MUsgained": 0,
-    "MUssubstracted": -1
+    "MUsgained": 115,
+    "MUssubstracted": -8
   },
   {
     "name": "Charcoco",
@@ -1190,7 +1196,7 @@
   {
     "name": "CocoSuper",
     "faction": "Resistance",
-    "MUsgained": 2279,
+    "MUsgained": 2280,
     "MUssubstracted": -1294
   },
   {
@@ -1202,8 +1208,8 @@
   {
     "name": "colleron2456",
     "faction": "Resistance",
-    "MUsgained": 22032,
-    "MUssubstracted": -70654
+    "MUsgained": 32727,
+    "MUssubstracted": -70661
   },
   {
     "name": "comfula",
@@ -1401,12 +1407,12 @@
     "name": "Dateca",
     "faction": "Resistance",
     "MUsgained": 394363,
-    "MUssubstracted": -87587
+    "MUssubstracted": -87602
   },
   {
     "name": "DaveGrohl",
     "faction": "Enlightened",
-    "MUsgained": 427,
+    "MUsgained": 432,
     "MUssubstracted": -128
   },
   {
@@ -1484,13 +1490,13 @@
   {
     "name": "DegaVRT",
     "faction": "Enlightened",
-    "MUsgained": 1,
+    "MUsgained": 3,
     "MUssubstracted": -5
   },
   {
     "name": "DeifDj",
     "faction": "Enlightened",
-    "MUsgained": 112,
+    "MUsgained": 129,
     "MUssubstracted": -5
   },
   {
@@ -1532,19 +1538,19 @@
   {
     "name": "destroyer45c",
     "faction": "Enlightened",
-    "MUsgained": 7736,
-    "MUssubstracted": -15608
+    "MUsgained": 8309,
+    "MUssubstracted": -15725
   },
   {
     "name": "Dhanta",
     "faction": "Resistance",
     "MUsgained": 1727,
-    "MUssubstracted": -2782
+    "MUssubstracted": -10198
   },
   {
     "name": "Diegohm",
     "faction": "Enlightened",
-    "MUsgained": 14893,
+    "MUsgained": 15267,
     "MUssubstracted": -106441
   },
   {
@@ -1562,8 +1568,8 @@
   {
     "name": "dilaSbd",
     "faction": "Enlightened",
-    "MUsgained": 57402,
-    "MUssubstracted": -6607
+    "MUsgained": 57827,
+    "MUssubstracted": -6632
   },
   {
     "name": "dininha",
@@ -1682,13 +1688,13 @@
   {
     "name": "eaitatiane",
     "faction": "Resistance",
-    "MUsgained": 22097,
+    "MUsgained": 22143,
     "MUssubstracted": -18305
   },
   {
     "name": "Edaindil",
     "faction": "Enlightened",
-    "MUsgained": 3800,
+    "MUsgained": 3810,
     "MUssubstracted": -36763
   },
   {
@@ -1748,7 +1754,7 @@
   {
     "name": "elfobcn",
     "faction": "Enlightened",
-    "MUsgained": 101133,
+    "MUsgained": 101135,
     "MUssubstracted": -361987
   },
   {
@@ -1826,7 +1832,7 @@
   {
     "name": "ElTites",
     "faction": "Resistance",
-    "MUsgained": 792,
+    "MUsgained": 893,
     "MUssubstracted": -8795
   },
   {
@@ -1838,7 +1844,7 @@
   {
     "name": "Emece",
     "faction": "Resistance",
-    "MUsgained": 23833,
+    "MUsgained": 23959,
     "MUssubstracted": -1453
   },
   {
@@ -2048,8 +2054,8 @@
   {
     "name": "FdiskMBR",
     "faction": "Resistance",
-    "MUsgained": 20741,
-    "MUssubstracted": -7594
+    "MUsgained": 20749,
+    "MUssubstracted": -7616
   },
   {
     "name": "fdsjoao",
@@ -2096,7 +2102,7 @@
   {
     "name": "Ferreiracvu27",
     "faction": "Resistance",
-    "MUsgained": 6,
+    "MUsgained": 18,
     "MUssubstracted": 0
   },
   {
@@ -2114,14 +2120,14 @@
   {
     "name": "Fiber73",
     "faction": "Enlightened",
-    "MUsgained": 99602,
+    "MUsgained": 100268,
     "MUssubstracted": -156304
   },
   {
     "name": "FinishedNougat",
     "faction": "Enlightened",
-    "MUsgained": 16407,
-    "MUssubstracted": -80806
+    "MUsgained": 16432,
+    "MUssubstracted": -81105
   },
   {
     "name": "Finkbrau91",
@@ -2208,6 +2214,12 @@
     "MUssubstracted": -73
   },
   {
+    "name": "Ftl8",
+    "faction": "Enlightened",
+    "MUsgained": 143,
+    "MUssubstracted": -164
+  },
+  {
     "name": "Fudangen",
     "faction": "Enlightened",
     "MUsgained": 122,
@@ -2252,7 +2264,7 @@
   {
     "name": "GAGM",
     "faction": "Resistance",
-    "MUsgained": 504,
+    "MUsgained": 778,
     "MUssubstracted": -153
   },
   {
@@ -2360,7 +2372,7 @@
   {
     "name": "GlitchHeaD",
     "faction": "Resistance",
-    "MUsgained": 15901,
+    "MUsgained": 16078,
     "MUssubstracted": -615
   },
   {
@@ -2403,7 +2415,7 @@
     "name": "Graviton555",
     "faction": "Resistance",
     "MUsgained": 2136,
-    "MUssubstracted": -63
+    "MUssubstracted": -111
   },
   {
     "name": "GreenBroken",
@@ -2534,8 +2546,8 @@
   {
     "name": "HeIios",
     "faction": "Enlightened",
-    "MUsgained": 45463,
-    "MUssubstracted": -91785
+    "MUsgained": 45515,
+    "MUssubstracted": -91826
   },
   {
     "name": "Herettix",
@@ -2750,7 +2762,7 @@
   {
     "name": "imarlab",
     "faction": "Resistance",
-    "MUsgained": 5047,
+    "MUsgained": 5048,
     "MUssubstracted": -7004
   },
   {
@@ -2774,7 +2786,7 @@
   {
     "name": "Indil",
     "faction": "Enlightened",
-    "MUsgained": 336,
+    "MUsgained": 349,
     "MUssubstracted": -20
   },
   {
@@ -2876,13 +2888,13 @@
   {
     "name": "jaujaman",
     "faction": "Enlightened",
-    "MUsgained": 23965,
+    "MUsgained": 33391,
     "MUssubstracted": -54131
   },
   {
     "name": "Javi09007",
     "faction": "Resistance",
-    "MUsgained": 2735,
+    "MUsgained": 2754,
     "MUssubstracted": -1284
   },
   {
@@ -2924,7 +2936,7 @@
   {
     "name": "jeksel10",
     "faction": "Enlightened",
-    "MUsgained": 681124,
+    "MUsgained": 693952,
     "MUssubstracted": -194899
   },
   {
@@ -2942,7 +2954,7 @@
   {
     "name": "Jeparla",
     "faction": "Enlightened",
-    "MUsgained": 17351,
+    "MUsgained": 17601,
     "MUssubstracted": -115547
   },
   {
@@ -2966,7 +2978,7 @@
   {
     "name": "JimmyHunter84",
     "faction": "Resistance",
-    "MUsgained": 26131,
+    "MUsgained": 28143,
     "MUssubstracted": -15484
   },
   {
@@ -3008,7 +3020,7 @@
   {
     "name": "joanrofe",
     "faction": "Resistance",
-    "MUsgained": 24051,
+    "MUsgained": 24076,
     "MUssubstracted": -5172
   },
   {
@@ -3074,7 +3086,7 @@
   {
     "name": "Jordimira",
     "faction": "Resistance",
-    "MUsgained": 8990,
+    "MUsgained": 9099,
     "MUssubstracted": -335
   },
   {
@@ -3194,8 +3206,8 @@
   {
     "name": "K0dix",
     "faction": "Enlightened",
-    "MUsgained": 967,
-    "MUssubstracted": -31028
+    "MUsgained": 989,
+    "MUssubstracted": -36079
   },
   {
     "name": "k1ntas",
@@ -3224,7 +3236,7 @@
   {
     "name": "kagome",
     "faction": "Enlightened",
-    "MUsgained": 563,
+    "MUsgained": 564,
     "MUssubstracted": -166
   },
   {
@@ -3375,7 +3387,7 @@
     "name": "Kirenia69",
     "faction": "Enlightened",
     "MUsgained": 8073,
-    "MUssubstracted": -415298
+    "MUssubstracted": -415327
   },
   {
     "name": "kirilin",
@@ -3446,7 +3458,7 @@
   {
     "name": "Kormorant",
     "faction": "Resistance",
-    "MUsgained": 5584,
+    "MUsgained": 5672,
     "MUssubstracted": -2735
   },
   {
@@ -3506,7 +3518,7 @@
   {
     "name": "Kuz1k",
     "faction": "Resistance",
-    "MUsgained": 449008,
+    "MUsgained": 449035,
     "MUssubstracted": -1183393
   },
   {
@@ -3566,13 +3578,13 @@
   {
     "name": "laslolas",
     "faction": "Resistance",
-    "MUsgained": 36197,
+    "MUsgained": 36221,
     "MUssubstracted": -18513
   },
   {
     "name": "Lawzzy",
     "faction": "Resistance",
-    "MUsgained": 48706,
+    "MUsgained": 49825,
     "MUssubstracted": -171945
   },
   {
@@ -3674,7 +3686,7 @@
   {
     "name": "lilisaurio",
     "faction": "Enlightened",
-    "MUsgained": 0,
+    "MUsgained": 12,
     "MUssubstracted": 0
   },
   {
@@ -3722,7 +3734,7 @@
   {
     "name": "loasforever",
     "faction": "Resistance",
-    "MUsgained": 7475,
+    "MUsgained": 7541,
     "MUssubstracted": -18920
   },
   {
@@ -3771,7 +3783,7 @@
     "name": "Lopelat76",
     "faction": "Resistance",
     "MUsgained": 530946,
-    "MUssubstracted": -3860213
+    "MUssubstracted": -3863409
   },
   {
     "name": "LordGuardian",
@@ -3894,6 +3906,12 @@
     "MUssubstracted": -10430
   },
   {
+    "name": "machoiberico",
+    "faction": "Enlightened",
+    "MUsgained": 0,
+    "MUssubstracted": 0
+  },
+  {
     "name": "Madcat3009",
     "faction": "Resistance",
     "MUsgained": 1,
@@ -3902,7 +3920,7 @@
   {
     "name": "MadriLenya87",
     "faction": "Resistance",
-    "MUsgained": 286292,
+    "MUsgained": 288544,
     "MUssubstracted": -28383
   },
   {
@@ -3914,7 +3932,7 @@
   {
     "name": "Magallanera",
     "faction": "Enlightened",
-    "MUsgained": 5974,
+    "MUsgained": 6162,
     "MUssubstracted": -1101
   },
   {
@@ -4100,8 +4118,8 @@
   {
     "name": "MasterOfAfrica",
     "faction": "Resistance",
-    "MUsgained": 62,
-    "MUssubstracted": -3677
+    "MUsgained": 75,
+    "MUssubstracted": -3687
   },
   {
     "name": "mastrus",
@@ -4148,7 +4166,7 @@
   {
     "name": "Mecalbakur",
     "faction": "Resistance",
-    "MUsgained": 83302,
+    "MUsgained": 83386,
     "MUssubstracted": -38352
   },
   {
@@ -4184,7 +4202,7 @@
   {
     "name": "MestreCeremonia",
     "faction": "Enlightened",
-    "MUsgained": 40506,
+    "MUsgained": 40562,
     "MUssubstracted": -164165
   },
   {
@@ -4220,7 +4238,7 @@
   {
     "name": "Miercoles13",
     "faction": "Resistance",
-    "MUsgained": 3625,
+    "MUsgained": 3644,
     "MUssubstracted": -1352
   },
   {
@@ -4244,7 +4262,7 @@
   {
     "name": "Minette",
     "faction": "Enlightened",
-    "MUsgained": 35217,
+    "MUsgained": 35431,
     "MUssubstracted": -511
   },
   {
@@ -4280,7 +4298,7 @@
   {
     "name": "mitxifu",
     "faction": "Resistance",
-    "MUsgained": 171,
+    "MUsgained": 214,
     "MUssubstracted": -318
   },
   {
@@ -4298,7 +4316,7 @@
   {
     "name": "mndru",
     "faction": "Enlightened",
-    "MUsgained": 34,
+    "MUsgained": 44,
     "MUssubstracted": -35
   },
   {
@@ -4358,7 +4376,7 @@
   {
     "name": "Morhine",
     "faction": "Enlightened",
-    "MUsgained": 8200,
+    "MUsgained": 8289,
     "MUssubstracted": -4162
   },
   {
@@ -4496,7 +4514,7 @@
   {
     "name": "MUNEKAS",
     "faction": "Enlightened",
-    "MUsgained": 26314,
+    "MUsgained": 26666,
     "MUssubstracted": -107554
   },
   {
@@ -4544,8 +4562,8 @@
   {
     "name": "Namraf",
     "faction": "Enlightened",
-    "MUsgained": 52601,
-    "MUssubstracted": -19113
+    "MUsgained": 52719,
+    "MUssubstracted": -19124
   },
   {
     "name": "nanakia",
@@ -4574,7 +4592,7 @@
   {
     "name": "Navegant",
     "faction": "Enlightened",
-    "MUsgained": 3380,
+    "MUsgained": 3386,
     "MUssubstracted": -1775
   },
   {
@@ -4652,7 +4670,7 @@
   {
     "name": "nirevic",
     "faction": "Resistance",
-    "MUsgained": 33792,
+    "MUsgained": 33809,
     "MUssubstracted": -12451
   },
   {
@@ -4683,7 +4701,7 @@
     "name": "nonnobisdomine",
     "faction": "Resistance",
     "MUsgained": 136,
-    "MUssubstracted": -4693
+    "MUssubstracted": -11188
   },
   {
     "name": "Nossebrodaniel",
@@ -4784,7 +4802,7 @@
   {
     "name": "Orbiz",
     "faction": "Resistance",
-    "MUsgained": 18173,
+    "MUsgained": 18176,
     "MUssubstracted": -30326
   },
   {
@@ -4856,20 +4874,20 @@
   {
     "name": "PaiBCN",
     "faction": "Resistance",
-    "MUsgained": 0,
+    "MUsgained": 26,
     "MUssubstracted": 0
   },
   {
     "name": "PAKELLOYSPOT",
     "faction": "Enlightened",
-    "MUsgained": 102566,
-    "MUssubstracted": -53455
+    "MUsgained": 106431,
+    "MUssubstracted": -56294
   },
   {
     "name": "Palisades33",
     "faction": "Resistance",
-    "MUsgained": 735627,
-    "MUssubstracted": -180453
+    "MUsgained": 744601,
+    "MUssubstracted": -218257
   },
   {
     "name": "palitomod",
@@ -4922,7 +4940,7 @@
   {
     "name": "Papusito",
     "faction": "Enlightened",
-    "MUsgained": 638,
+    "MUsgained": 924,
     "MUssubstracted": -66
   },
   {
@@ -4952,8 +4970,8 @@
   {
     "name": "Peakoiler",
     "faction": "Resistance",
-    "MUsgained": 80209,
-    "MUssubstracted": -234961
+    "MUsgained": 81169,
+    "MUssubstracted": -234978
   },
   {
     "name": "PechuTron25",
@@ -4964,7 +4982,7 @@
   {
     "name": "pedro43mad",
     "faction": "Resistance",
-    "MUsgained": 66135,
+    "MUsgained": 66717,
     "MUssubstracted": -5579
   },
   {
@@ -5120,7 +5138,7 @@
   {
     "name": "Pizzahaawaiiana",
     "faction": "Enlightened",
-    "MUsgained": 968,
+    "MUsgained": 1023,
     "MUssubstracted": 0
   },
   {
@@ -5156,7 +5174,7 @@
   {
     "name": "Pol89",
     "faction": "Enlightened",
-    "MUsgained": 26234,
+    "MUsgained": 26239,
     "MUssubstracted": -15503
   },
   {
@@ -5174,7 +5192,7 @@
   {
     "name": "Proof88",
     "faction": "Enlightened",
-    "MUsgained": 1479,
+    "MUsgained": 1502,
     "MUssubstracted": -98
   },
   {
@@ -5186,7 +5204,7 @@
   {
     "name": "Pselly",
     "faction": "Enlightened",
-    "MUsgained": 1,
+    "MUsgained": 2,
     "MUssubstracted": -22667
   },
   {
@@ -5210,7 +5228,7 @@
   {
     "name": "purplepopple",
     "faction": "Resistance",
-    "MUsgained": 2549,
+    "MUsgained": 2622,
     "MUssubstracted": -852
   },
   {
@@ -5222,8 +5240,8 @@
   {
     "name": "Quesoykaos",
     "faction": "Enlightened",
-    "MUsgained": 34415,
-    "MUssubstracted": -20099
+    "MUsgained": 34966,
+    "MUssubstracted": -21705
   },
   {
     "name": "QuestCape",
@@ -5242,6 +5260,12 @@
     "faction": "Resistance",
     "MUsgained": 916,
     "MUssubstracted": -719
+  },
+  {
+    "name": "Rachid777",
+    "faction": "Enlightened",
+    "MUsgained": 0,
+    "MUssubstracted": 0
   },
   {
     "name": "Racoseral",
@@ -5270,7 +5294,7 @@
   {
     "name": "RANAberme",
     "faction": "Enlightened",
-    "MUsgained": 42546,
+    "MUsgained": 46152,
     "MUssubstracted": -15782
   },
   {
@@ -5420,7 +5444,7 @@
   {
     "name": "rllorens314",
     "faction": "Resistance",
-    "MUsgained": 1267558,
+    "MUsgained": 1267593,
     "MUssubstracted": -20559
   },
   {
@@ -5432,7 +5456,7 @@
   {
     "name": "RobBond",
     "faction": "Enlightened",
-    "MUsgained": 15043,
+    "MUsgained": 15105,
     "MUssubstracted": -8567
   },
   {
@@ -5468,7 +5492,7 @@
   {
     "name": "rogueagent75",
     "faction": "Enlightened",
-    "MUsgained": 21360,
+    "MUsgained": 22448,
     "MUssubstracted": -19028
   },
   {
@@ -5516,7 +5540,7 @@
   {
     "name": "ruflen",
     "faction": "Enlightened",
-    "MUsgained": 78899,
+    "MUsgained": 80880,
     "MUssubstracted": -6361
   },
   {
@@ -5534,7 +5558,7 @@
   {
     "name": "Rumble59",
     "faction": "Enlightened",
-    "MUsgained": 11922,
+    "MUsgained": 12199,
     "MUssubstracted": -6430
   },
   {
@@ -5547,7 +5571,7 @@
     "name": "s1pen",
     "faction": "Enlightened",
     "MUsgained": 161,
-    "MUssubstracted": -31
+    "MUssubstracted": -547
   },
   {
     "name": "Sabine1974",
@@ -5726,8 +5750,8 @@
   {
     "name": "serenium1",
     "faction": "Enlightened",
-    "MUsgained": 40470,
-    "MUssubstracted": -34158
+    "MUsgained": 41292,
+    "MUssubstracted": -34229
   },
   {
     "name": "Serging",
@@ -5858,14 +5882,14 @@
   {
     "name": "silver3687",
     "faction": "Enlightened",
-    "MUsgained": 7697,
+    "MUsgained": 8056,
     "MUssubstracted": -13653
   },
   {
     "name": "Sined78",
     "faction": "Resistance",
     "MUsgained": 57633,
-    "MUssubstracted": -4079
+    "MUssubstracted": -4081
   },
   {
     "name": "SirnxitacZ",
@@ -5888,6 +5912,12 @@
   {
     "name": "sknet",
     "faction": "Resistance",
+    "MUsgained": 0,
+    "MUssubstracted": 0
+  },
+  {
+    "name": "slaine",
+    "faction": "Enlightened",
     "MUsgained": 0,
     "MUssubstracted": 0
   },
@@ -6122,7 +6152,7 @@
   {
     "name": "StateHaw",
     "faction": "Enlightened",
-    "MUsgained": 4007,
+    "MUsgained": 4033,
     "MUssubstracted": -354
   },
   {
@@ -6134,7 +6164,7 @@
   {
     "name": "steel4",
     "faction": "Enlightened",
-    "MUsgained": 5137,
+    "MUsgained": 5250,
     "MUssubstracted": -454
   },
   {
@@ -6176,8 +6206,8 @@
   {
     "name": "StringerCuenca",
     "faction": "Resistance",
-    "MUsgained": 19066,
-    "MUssubstracted": -142143
+    "MUsgained": 19074,
+    "MUssubstracted": -142298
   },
   {
     "name": "StromStirga",
@@ -6266,7 +6296,7 @@
   {
     "name": "TaaZ0",
     "faction": "Enlightened",
-    "MUsgained": 39984,
+    "MUsgained": 39985,
     "MUssubstracted": -12180
   },
   {
@@ -6356,8 +6386,8 @@
   {
     "name": "Terrible777",
     "faction": "Enlightened",
-    "MUsgained": 345207,
-    "MUssubstracted": -9460
+    "MUsgained": 345240,
+    "MUssubstracted": -9662
   },
   {
     "name": "terzai",
@@ -6500,7 +6530,7 @@
   {
     "name": "TIR0FIJ0",
     "faction": "Resistance",
-    "MUsgained": 1571,
+    "MUsgained": 1589,
     "MUssubstracted": -967
   },
   {
@@ -6536,7 +6566,7 @@
   {
     "name": "Toicansao",
     "faction": "Enlightened",
-    "MUsgained": 260238,
+    "MUsgained": 261342,
     "MUssubstracted": -449503
   },
   {
@@ -6565,6 +6595,12 @@
   },
   {
     "name": "tombibtt",
+    "faction": "Resistance",
+    "MUsgained": 0,
+    "MUssubstracted": 0
+  },
+  {
+    "name": "Tomihol",
     "faction": "Resistance",
     "MUsgained": 0,
     "MUssubstracted": 0
@@ -6656,7 +6692,7 @@
   {
     "name": "TSankara",
     "faction": "Resistance",
-    "MUsgained": 10808,
+    "MUsgained": 13264,
     "MUssubstracted": -9263
   },
   {
@@ -6710,7 +6746,7 @@
   {
     "name": "unablesmurf",
     "faction": "Resistance",
-    "MUsgained": 1212,
+    "MUsgained": 1214,
     "MUssubstracted": -7274
   },
   {
@@ -6842,8 +6878,14 @@
   {
     "name": "VinoyCallos",
     "faction": "Resistance",
-    "MUsgained": 16007,
-    "MUssubstracted": -138617
+    "MUsgained": 16456,
+    "MUssubstracted": -142146
+  },
+  {
+    "name": "ViperBS",
+    "faction": "Enlightened",
+    "MUsgained": 0,
+    "MUssubstracted": 0
   },
   {
     "name": "virgienzo",
@@ -6890,8 +6932,8 @@
   {
     "name": "VonNein1",
     "faction": "Enlightened",
-    "MUsgained": 3922,
-    "MUssubstracted": -3900
+    "MUsgained": 3968,
+    "MUssubstracted": -3975
   },
   {
     "name": "VoukForLost",
@@ -7148,7 +7190,7 @@
   {
     "name": "Yellowday",
     "faction": "Resistance",
-    "MUsgained": 12,
+    "MUsgained": 24,
     "MUssubstracted": 0
   },
   {
@@ -7256,7 +7298,7 @@
   {
     "name": "ZeIia",
     "faction": "Resistance",
-    "MUsgained": 6294,
+    "MUsgained": 7044,
     "MUssubstracted": -21474
   },
   {
@@ -7298,13 +7340,13 @@
   {
     "name": "zoolander2",
     "faction": "Resistance",
-    "MUsgained": 11607,
+    "MUsgained": 18004,
     "MUssubstracted": -111
   },
   {
     "name": "Zorongollo",
     "faction": "Resistance",
-    "MUsgained": 3013,
+    "MUsgained": 3015,
     "MUssubstracted": 0
   },
   {
