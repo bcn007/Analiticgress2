@@ -3440,6 +3440,14 @@
     }
   },
   {
+    "name": "A Neruda",
+    "address": "Avenida de Pablo Neruda, 116A, 28018 Madrid, Madrid, Spain",
+    "location": {
+      "lat": 40.381813,
+      "lng": -3.652543
+    }
+  },
+  {
     "name": "A Nora",
     "address": "Rua 1 de Maio 12, 7160 Vila Viçosa, Portugal",
     "location": {
@@ -3509,6 +3517,14 @@
     "location": {
       "lat": 41.403032,
       "lng": 2.165588
+    }
+  },
+  {
+    "name": "A ponerse en forma",
+    "address": "C. de Valle Inclán, 76, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.374779,
+      "lng": -3.775102
     }
   },
   {
@@ -3821,6 +3837,14 @@
     "location": {
       "lat": 40.482996,
       "lng": -3.663334
+    }
+  },
+  {
+    "name": "A Tu Bola Alcala",
+    "address": "C. Jacinto Verdaguer, 6, 28806 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.50735,
+      "lng": -3.37107
     }
   },
   {
@@ -4325,6 +4349,14 @@
     "location": {
       "lat": 40.305125,
       "lng": -3.744876
+    }
+  },
+  {
+    "name": "Abdominais em Prancha",
+    "address": "Av. António Sardinha 7350, 7350 Elvas, Portugal",
+    "location": {
+      "lat": 38.875664,
+      "lng": -7.168622
     }
   },
   {
@@ -5989,6 +6021,14 @@
     "location": {
       "lat": 41.545191,
       "lng": 2.213272
+    }
+  },
+  {
+    "name": "Acceso Principal parque Princesa Leonor",
+    "address": "Av. de las Fuerzas Armadas, 5, Hortaleza, 28055 Madrid, Spain",
+    "location": {
+      "lat": 40.484008,
+      "lng": -3.619051
     }
   },
   {
@@ -10832,6 +10872,14 @@
     }
   },
   {
+    "name": "Ala Oeste Politécnico",
+    "address": "Avenida Lope de Figueroa, 28805 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.513183,
+      "lng": -3.350475
+    }
+  },
+  {
     "name": "Alabat sia Déu per vostra pròpia dignitat i respecte als altres no renegueu.",
     "address": "Carrer Fira, 37, 08251 Santpedor, Barcelona, Spain",
     "location": {
@@ -13005,6 +13053,14 @@
     "location": {
       "lat": 40.401388,
       "lng": -7.539242
+    }
+  },
+  {
+    "name": "Alminhas do Talasnal",
+    "address": "Unnamed Road, 3200, Portugal",
+    "location": {
+      "lat": 40.091941,
+      "lng": -8.226053
     }
   },
   {
@@ -24064,6 +24120,14 @@
     }
   },
   {
+    "name": "Arce menor",
+    "address": "Calle Prov Parque Valdebebas 1, 5, Hortaleza, 28055 Madrid, Spain",
+    "location": {
+      "lat": 40.487978,
+      "lng": -3.619493
+    }
+  },
+  {
     "name": "Arce negundo \"Acer negundo L.\"",
     "address": "Senda botánica Casa de Campo, Anillo Verde Ciclista, 28011 Madrid, Spain",
     "location": {
@@ -26841,6 +26905,14 @@
   },
   {
     "name": "Area de juegos infantiles",
+    "address": "Av. de Niza, 37, 28022 Madrid, Spain",
+    "location": {
+      "lat": 40.429852,
+      "lng": -3.607446
+    }
+  },
+  {
+    "name": "Area de juegos infantiles",
     "address": "Av. Juan XXIII, 10, 28223 Pozuelo de Alarcón, Madrid, Spain",
     "location": {
       "lat": 40.446703,
@@ -27557,6 +27629,14 @@
     "location": {
       "lat": 40.580923,
       "lng": -3.928793
+    }
+  },
+  {
+    "name": "Area deportiva V Centenario",
+    "address": "C. de Méjico, 38B, 28918 Leganés, Madrid, Spain",
+    "location": {
+      "lat": 40.34223,
+      "lng": -3.7677
     }
   },
   {
@@ -36504,6 +36584,14 @@
     }
   },
   {
+    "name": "ATC Radar Miramadrid",
+    "address": "Paseo del Radar, 38, 28860 Paracuellos de Jarama, Madrid, Spain",
+    "location": {
+      "lat": 40.499599,
+      "lng": -3.523448
+    }
+  },
+  {
     "name": "Atelier des artistes",
     "address": "Avinguda del Marquès de Sant Mori, 151, 08914 Badalona, Barcelona, Spain",
     "location": {
@@ -36869,6 +36957,14 @@
     "location": {
       "lat": 40.386742,
       "lng": -3.728995
+    }
+  },
+  {
+    "name": "Atleta con antorcha",
+    "address": "Rda. Lago, 1, 28011 Madrid, Spain",
+    "location": {
+      "lat": 40.41551,
+      "lng": -3.734468
     }
   },
   {
@@ -39365,6 +39461,14 @@
     "location": {
       "lat": 41.833732,
       "lng": 1.754047
+    }
+  },
+  {
+    "name": "Avioneta Infantil",
+    "address": "Av. Cerro del Telégrafo, 4V, 28522 Rivas-Vaciamadrid, Madrid, Spain",
+    "location": {
+      "lat": 40.357433,
+      "lng": -3.525592
     }
   },
   {
@@ -42673,6 +42777,14 @@
   },
   {
     "name": "Balancines",
+    "address": "Plaza Rabasa, 6, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.375574,
+      "lng": -3.764905
+    }
+  },
+  {
+    "name": "Balancines",
     "address": "Ronda Mossèn Jacint Verdaguer, 15, 08304 Mataró, Barcelona, Spain",
     "location": {
       "lat": 41.542751,
@@ -45725,6 +45837,14 @@
     "location": {
       "lat": 40.481721,
       "lng": -3.701338
+    }
+  },
+  {
+    "name": "Banco de pedales",
+    "address": "Concejal Francisco Jiménez - Alhambra, 28047 Madrid, Spain",
+    "location": {
+      "lat": 40.400087,
+      "lng": -3.746757
     }
   },
   {
@@ -49021,6 +49141,14 @@
     "location": {
       "lat": 40.332452,
       "lng": -3.776636
+    }
+  },
+  {
+    "name": "Barras calistenia",
+    "address": "C. Cinco, 6, 10910, Cáceres, Spain",
+    "location": {
+      "lat": 39.439341,
+      "lng": -6.509099
     }
   },
   {
@@ -52997,6 +53125,14 @@
     "location": {
       "lat": 40.805986,
       "lng": -5.697279
+    }
+  },
+  {
+    "name": "Bem-vindo",
+    "address": "Largo Gago Coutinho 11, 7160-214 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.777017,
+      "lng": -7.420062
     }
   },
   {
@@ -57920,6 +58056,14 @@
     }
   },
   {
+    "name": "Bienvenido a Arenas",
+    "address": "Barrio Lourdes, 1, 05400 Arenas de San Pedro, Ávila, Spain",
+    "location": {
+      "lat": 40.209538,
+      "lng": -5.081745
+    }
+  },
+  {
     "name": "Bienvenido a El Viso",
     "address": "Urbanizacion Apr., 89P, 45215, Toledo, Spain",
     "location": {
@@ -58157,6 +58301,14 @@
     "location": {
       "lat": 40.49136,
       "lng": -3.957173
+    }
+  },
+  {
+    "name": "Bienvenidos al Aeropuerto de Cuatro Vientos",
+    "address": "Ctra. Barrio de la Fortuna, 27, 28054 Madrid, Spain",
+    "location": {
+      "lat": 40.365161,
+      "lng": -3.775416
     }
   },
   {
@@ -58557,6 +58709,14 @@
     "location": {
       "lat": 41.501957,
       "lng": 2.351858
+    }
+  },
+  {
+    "name": "Bike Park Torrejón",
+    "address": "Calle Telémaco, 11, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.451149,
+      "lng": -3.47591
     }
   },
   {
@@ -64096,6 +64256,14 @@
     }
   },
   {
+    "name": "Brindis con Birras",
+    "address": "C. de Blas Cabrera, 71, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.378842,
+      "lng": -3.773842
+    }
+  },
+  {
     "name": "Brindis de enamorados",
     "address": "C. de Pedro Rico, 41, Fuencarral-El Pardo, 28029 Madrid, Spain",
     "location": {
@@ -68336,6 +68504,14 @@
     }
   },
   {
+    "name": "caballin balancin",
+    "address": "Camino la Dehesa, 20, 28950 Moraleja de Enmedio, Madrid, Spain",
+    "location": {
+      "lat": 40.260166,
+      "lng": -3.869242
+    }
+  },
+  {
     "name": "Caballito",
     "address": "Carrer de Montbau, 4, 08035 Barcelona, Spain",
     "location": {
@@ -70312,6 +70488,14 @@
     }
   },
   {
+    "name": "Caixa de Visita",
+    "address": "Av. da Liberdade 88, 3530-219 Mangualde, Portugal",
+    "location": {
+      "lat": 40.604936,
+      "lng": -7.765467
+    }
+  },
+  {
     "name": "Caixa do Correio de Portugal, n°42",
     "address": "Av. Combatentes da Grande Guerra 7, 7005-150 Évora, Portugal",
     "location": {
@@ -70453,6 +70637,14 @@
     "location": {
       "lat": 41.490209,
       "lng": 2.135467
+    }
+  },
+  {
+    "name": "Caja del Arte",
+    "address": "Calle Joaquín Blume, 7, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.447139,
+      "lng": -3.469404
     }
   },
   {
@@ -73088,6 +73280,14 @@
     }
   },
   {
+    "name": "camaron de la isla",
+    "address": "C. de José de Cadalso, 25, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.381027,
+      "lng": -3.771339
+    }
+  },
+  {
     "name": "Camarón",
     "address": "Rafael Gil Gonzalez, 26, 06007 Badajoz, Spain",
     "location": {
@@ -73808,6 +74008,14 @@
     }
   },
   {
+    "name": "Caminho Senhor da Aflição",
+    "address": "Caminho Senhor da Aflição, 3620, Portugal",
+    "location": {
+      "lat": 40.947561,
+      "lng": -7.546746
+    }
+  },
+  {
     "name": "Caminhos De Ferro",
     "address": "Largo da Estação 2, 6230-311 Fundão, Portugal",
     "location": {
@@ -73869,6 +74077,14 @@
     "location": {
       "lat": 38.805827,
       "lng": -7.458486
+    }
+  },
+  {
+    "name": "Camino a Guadalupe.",
+    "address": "Camino Juan Pan, 4, 45510 Fuensalida, Toledo, Spain",
+    "location": {
+      "lat": 40.058838,
+      "lng": -4.204323
     }
   },
   {
@@ -78741,6 +78957,14 @@
     "location": {
       "lat": 40.256267,
       "lng": -3.821124
+    }
+  },
+  {
+    "name": "Campo de futebol",
+    "address": "MC7J+46 Penalva do Castelo, Portugal",
+    "location": {
+      "lat": 40.662809,
+      "lng": -7.569398
     }
   },
   {
@@ -86864,6 +87088,14 @@
     }
   },
   {
+    "name": "Cancha De Basket Y Skate En Cerceda",
+    "address": "Calle del Prado Serrano, 34X, 28412 Cerceda, Madrid, Spain",
+    "location": {
+      "lat": 40.696372,
+      "lng": -3.931908
+    }
+  },
+  {
     "name": "Cancha De Basketball",
     "address": "Camino Del Chorrillo, 28039 Madrid, Spain",
     "location": {
@@ -87197,6 +87429,14 @@
     "location": {
       "lat": 40.980522,
       "lng": -5.666673
+    }
+  },
+  {
+    "name": "Cancha de fútbol sala",
+    "address": "Ronda de la Pizarra, 1, 10005 Cáceres, Spain",
+    "location": {
+      "lat": 39.45983,
+      "lng": -6.377169
     }
   },
   {
@@ -89677,6 +89917,14 @@
     "location": {
       "lat": 39.820118,
       "lng": -7.4598
+    }
+  },
+  {
+    "name": "Capela De Santa Ana",
+    "address": "Rua Campo de Ténis 8, 6230 Castelo Novo, Portugal",
+    "location": {
+      "lat": 40.075676,
+      "lng": -7.494358
     }
   },
   {
@@ -92528,6 +92776,14 @@
     }
   },
   {
+    "name": "Cara Mural",
+    "address": "Calle de Ocaña, 91, 28047 Madrid, Spain",
+    "location": {
+      "lat": 40.386337,
+      "lng": -3.754983
+    }
+  },
+  {
     "name": "Cara pizza",
     "address": "Carrer d'Apodaca, 38, 43004 Tarragona, Spain",
     "location": {
@@ -92853,6 +93109,14 @@
     "location": {
       "lat": 40.282498,
       "lng": -3.795491
+    }
+  },
+  {
+    "name": "Caras De Colores",
+    "address": "Calle del Arroyo de Pozuelo, 13, 28023 Madrid, Spain",
+    "location": {
+      "lat": 40.451682,
+      "lng": -3.769952
     }
   },
   {
@@ -95512,6 +95776,14 @@
     }
   },
   {
+    "name": "Cartel Circuito de Ejercicio. Entrada Este",
+    "address": "Calle de Miguel Hernández, 34, 28822 Coslada, Madrid, Spain",
+    "location": {
+      "lat": 40.423077,
+      "lng": -3.553399
+    }
+  },
+  {
     "name": "Cartel Circuito de Salud",
     "address": "Calle de Almería, 21, 28231 Las Rozas de Madrid, Madrid, Spain",
     "location": {
@@ -96165,6 +96437,14 @@
     "location": {
       "lat": 39.742196,
       "lng": -5.696511
+    }
+  },
+  {
+    "name": "Cartel de puntos de interés de Alía",
+    "address": "Ctra. de la Calera, 1, 10137 Alía, Cáceres, Spain",
+    "location": {
+      "lat": 39.450849,
+      "lng": -5.218432
     }
   },
   {
@@ -116752,6 +117032,14 @@
     }
   },
   {
+    "name": "Castillo Infantil Solidaridad",
+    "address": "M-506, 28942 Fuenlabrada, Madrid, Spain",
+    "location": {
+      "lat": 40.281503,
+      "lng": -3.811075
+    }
+  },
+  {
     "name": "Castillo Infantil Templarios",
     "address": "Calle de San Pedro de Cardeña, 44, 28033 Madrid, Spain",
     "location": {
@@ -118421,6 +118709,14 @@
     "location": {
       "lat": 40.387647,
       "lng": -5.773163
+    }
+  },
+  {
+    "name": "Caño de los Rincones",
+    "address": "Paseo de los Rincones, 22, 28470 Cercedilla, Madrid, Spain",
+    "location": {
+      "lat": 40.743143,
+      "lng": -4.054214
     }
   },
   {
@@ -125424,6 +125720,14 @@
     }
   },
   {
+    "name": "Centro Cultural Luis Rosales",
+    "address": "Calle de el Arroyo, 9, 28470 Cercedilla, Madrid, Spain",
+    "location": {
+      "lat": 40.740027,
+      "lng": -4.054431
+    }
+  },
+  {
     "name": "Centro Cultural Manuel Entero",
     "address": "Calle Campana, 5, 28270 Colmenarejo, Madrid, Spain",
     "location": {
@@ -127320,6 +127624,14 @@
     }
   },
   {
+    "name": "Centro De Interpretación",
+    "address": "Calle Guardia Civil, 9, 06192 Villar del Rey, Badajoz, Spain",
+    "location": {
+      "lat": 39.132676,
+      "lng": -6.844831
+    }
+  },
+  {
     "name": "centro de interpretación",
     "address": "Calle Marqués de la Conquista, 3, 10500 Valencia de Alcántara, Cáceres, Spain",
     "location": {
@@ -128288,6 +128600,14 @@
     }
   },
   {
+    "name": "Centro de química aplicada y biotecnología",
+    "address": "Calle Escultor Claudio, 8A, 28805 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.504254,
+      "lng": -3.338829
+    }
+  },
+  {
     "name": "Centro de Química Orgánica \"Manuel Lora-Tamayo\"",
     "address": "Calle Juan de la Cierva, 27, 28006 Madrid, Spain",
     "location": {
@@ -128373,6 +128693,14 @@
     "location": {
       "lat": 40.06204,
       "lng": -5.751537
+    }
+  },
+  {
+    "name": "Centro De Rehabilitación, Orientación.",
+    "address": "Ronda de la Pizarra, 23, 10005 Cáceres, Spain",
+    "location": {
+      "lat": 39.456938,
+      "lng": -6.376863
     }
   },
   {
@@ -133376,6 +133704,14 @@
     }
   },
   {
+    "name": "Chafariz Do Relógio Velho",
+    "address": "R. da Mata 1, 3530-198 Mangualde, Portugal",
+    "location": {
+      "lat": 40.604182,
+      "lng": -7.765734
+    }
+  },
+  {
     "name": "Chafariz do Vale",
     "address": "R. do Vale 27, 6320 Soito, Portugal",
     "location": {
@@ -136504,6 +136840,14 @@
     }
   },
   {
+    "name": "Chiquipark con flor",
+    "address": "Av. de la Paz, 35, 06200 Almendralejo, Badajoz, Spain",
+    "location": {
+      "lat": 38.680266,
+      "lng": -6.410646
+    }
+  },
+  {
     "name": "Chiquipark de la Ciudad Deportiva",
     "address": "Camino Viñas Viejas, s/n, 06800 Mérida, Badajoz, Spain",
     "location": {
@@ -136621,6 +136965,14 @@
     "location": {
       "lat": 38.872733,
       "lng": -6.979395
+    }
+  },
+  {
+    "name": "Chiquiparque Guareña",
+    "address": "Calle Navia, 4, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.386081,
+      "lng": -3.767237
     }
   },
   {
@@ -140657,6 +141009,14 @@
   },
   {
     "name": "Circuito Vita",
+    "address": "Calle de Carlos Muñoz Ruiz, 3, 28100 Alcobendas, Madrid, Spain",
+    "location": {
+      "lat": 40.552427,
+      "lng": -3.650575
+    }
+  },
+  {
+    "name": "Circuito Vita",
     "address": "Camino Cementerio, 2, 06100 Olivenza, Badajoz, Spain",
     "location": {
       "lat": 38.689289,
@@ -140789,6 +141149,14 @@
     "location": {
       "lat": 41.381017,
       "lng": 2.177006
+    }
+  },
+  {
+    "name": "Circuíto integral de marcha nórdica “Monte del Pilar” 4",
+    "address": "Poligono 5, 98P, 28221, Madrid, Spain",
+    "location": {
+      "lat": 40.464047,
+      "lng": -3.856162
     }
   },
   {
@@ -141469,6 +141837,14 @@
     "location": {
       "lat": 41.398511,
       "lng": 2.198008
+    }
+  },
+  {
+    "name": "Ciudad esmeralda",
+    "address": "C. de Julia García Boután, 12, San Blas-Canillejas, 28022 Madrid, Spain",
+    "location": {
+      "lat": 40.429704,
+      "lng": -3.608519
     }
   },
   {
@@ -145272,6 +145648,14 @@
     }
   },
   {
+    "name": "Clube de Pesca de Castelo Branco",
+    "address": "R. Dr. Henrique Carvalhão 1, 6000-235 Castelo Branco, Portugal",
+    "location": {
+      "lat": 39.818023,
+      "lng": -7.501784
+    }
+  },
+  {
     "name": "Clube de tiro e caça de Elvas",
     "address": "VRHV+8G Elvas, Portugal",
     "location": {
@@ -148037,6 +148421,14 @@
     "location": {
       "lat": 40.344875,
       "lng": -3.821633
+    }
+  },
+  {
+    "name": "Coliseo",
+    "address": "Calle Magnolia, 6, 28670 Villaviciosa de Odón, Madrid, Spain",
+    "location": {
+      "lat": 40.356787,
+      "lng": -3.904947
     }
   },
   {
@@ -150832,6 +151224,14 @@
     }
   },
   {
+    "name": "Columpio triple",
+    "address": "C. del Gral. Millan Astray, 4, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.379223,
+      "lng": -3.767898
+    }
+  },
+  {
     "name": "Columpio unirueda",
     "address": "Carrer de Mossèn Jacint Verdaguer, 43, 08922 Santa Coloma de Gramenet, Barcelona, Spain",
     "location": {
@@ -152333,6 +152733,14 @@
     "location": {
       "lat": 40.593343,
       "lng": -3.701201
+    }
+  },
+  {
+    "name": "Columpios Jerusalén",
+    "address": "Calle Jerusalén, 16, 28981 Parla, Madrid, Spain",
+    "location": {
+      "lat": 40.237086,
+      "lng": -3.775154
     }
   },
   {
@@ -159688,6 +160096,14 @@
     }
   },
   {
+    "name": "Coreto",
+    "address": "R. do Convento 2, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.776041,
+      "lng": -7.418305
+    }
+  },
+  {
     "name": "Coreto Almeida",
     "address": "Rua da Muralha 7, 6350-234 Almeida, Portugal",
     "location": {
@@ -163376,6 +163792,14 @@
     }
   },
   {
+    "name": "Crash Bandicoot",
+    "address": "Diseminado Ferrocarril, 1X, 28840, Madrid, Spain",
+    "location": {
+      "lat": 40.404286,
+      "lng": -3.495339
+    }
+  },
+  {
     "name": "Crash Bandicoot Graffiti",
     "address": "Carrer de Juan Valera, 196, 08914 Santa Coloma de Gramenet, Barcelona, Spain",
     "location": {
@@ -165448,6 +165872,14 @@
     }
   },
   {
+    "name": "Cruce del olivar",
+    "address": "P.º de las Provincias, 691, 28523 Rivas-Vaciamadrid, Madrid, Spain",
+    "location": {
+      "lat": 40.370193,
+      "lng": -3.547047
+    }
+  },
+  {
     "name": "Cruceiro Alparrache",
     "address": "Paseo del Alparrache, 18, 28600 Navalcarnero, Madrid, Spain",
     "location": {
@@ -165621,6 +166053,14 @@
     "location": {
       "lat": 41.376084,
       "lng": 2.10411
+    }
+  },
+  {
+    "name": "Cruz",
+    "address": "QHMJ+W5 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.784866,
+      "lng": -7.419579
     }
   },
   {
@@ -167709,6 +168149,14 @@
     "location": {
       "lat": 40.201005,
       "lng": -7.519553
+    }
+  },
+  {
+    "name": "Cruzeiro Na Parede",
+    "address": "Avenida da Liberdade 62, 3530-113 Mangualde, Portugal",
+    "location": {
+      "lat": 40.605111,
+      "lng": -7.764573
     }
   },
   {
@@ -169917,6 +170365,14 @@
     "location": {
       "lat": 40.669276,
       "lng": -3.210307
+    }
+  },
+  {
+    "name": "Cupula en el Parque Nuevo",
+    "address": "Avenida Luna, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.448831,
+      "lng": -3.476055
     }
   },
   {
@@ -176709,6 +177165,14 @@
     "location": {
       "lat": 41.406181,
       "lng": 2.190203
+    }
+  },
+  {
+    "name": "Dibujo de vinos",
+    "address": "C. Valmojado, 79, 28047 Madrid, Spain",
+    "location": {
+      "lat": 40.394638,
+      "lng": -3.757101
     }
   },
   {
@@ -183552,6 +184016,14 @@
     }
   },
   {
+    "name": "E é amar-te assim perdidamente...",
+    "address": "R. Florbela Espanca 57, 7160-283 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.779842,
+      "lng": -7.418609
+    }
+  },
+  {
     "name": "E-15 Rest Area Sculpture, el Coll",
     "address": "C-35, 08450 Llinars del Vallès, Barcelona, Spain",
     "location": {
@@ -186997,6 +187469,14 @@
     "location": {
       "lat": 41.180235,
       "lng": 1.523162
+    }
+  },
+  {
+    "name": "Ejercicio al aire libre",
+    "address": "C. Pradillos, 49, 28411 Moralzarzal, Madrid, Spain",
+    "location": {
+      "lat": 40.688537,
+      "lng": -3.969999
     }
   },
   {
@@ -196712,6 +197192,14 @@
     }
   },
   {
+    "name": "El lavadero",
+    "address": "Calle Almanzor, 42, 05480 Candeleda, Ávila, Spain",
+    "location": {
+      "lat": 40.156343,
+      "lng": -5.24273
+    }
+  },
+  {
     "name": "El Lavadero",
     "address": "Carrer Vilafranca, 8, 08776 Sant Pere de Riudebitlles, Barcelona, Spain",
     "location": {
@@ -198565,6 +199053,14 @@
     "location": {
       "lat": 40.475486,
       "lng": -3.684382
+    }
+  },
+  {
+    "name": "El Niño",
+    "address": "Calle de Minotauro, 20, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.449377,
+      "lng": -3.474534
     }
   },
   {
@@ -201429,6 +201925,14 @@
     "location": {
       "lat": 40.461053,
       "lng": -3.483224
+    }
+  },
+  {
+    "name": "El Pozo",
+    "address": "Calle Torrejón de Ardoz, 27, 28806 Alcala de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.492373,
+      "lng": -3.365742
     }
   },
   {
@@ -205208,6 +205712,14 @@
     }
   },
   {
+    "name": "Electric Cosmos Part III",
+    "address": "Ronda de Oviedo, 79, 28523 Rivas-Vaciamadrid, Madrid, Spain",
+    "location": {
+      "lat": 40.370852,
+      "lng": -3.548249
+    }
+  },
+  {
     "name": "Electric Garatge",
     "address": "Carrer d'Eivissa, 19, 43005 Tarragona, Spain",
     "location": {
@@ -208109,6 +208621,14 @@
     "location": {
       "lat": 40.42505,
       "lng": -3.604178
+    }
+  },
+  {
+    "name": "Empedrado conventual",
+    "address": "Calle San Enrique, 7, 37007 Salamanca, Spain",
+    "location": {
+      "lat": 40.961823,
+      "lng": -5.672924
     }
   },
   {
@@ -214056,6 +214576,14 @@
     }
   },
   {
+    "name": "Ermita de la Virgen De La Espiga",
+    "address": "Calle del Calvario, 36, 28864 Ajalvir, Madrid, Spain",
+    "location": {
+      "lat": 40.541242,
+      "lng": -3.498878
+    }
+  },
+  {
     "name": "Ermita De La Virgen De Los Remedios",
     "address": "Calle Buenos Aires, 2, 10500 Valencia de Alcántara, Cáceres, Spain",
     "location": {
@@ -214077,6 +214605,14 @@
     "location": {
       "lat": 40.484217,
       "lng": -3.340177
+    }
+  },
+  {
+    "name": "Ermita de Las Angustias",
+    "address": "Avenida Angustias, 1, 10300 Navalmoral de la Mata, Cáceres, Spain",
+    "location": {
+      "lat": 39.891863,
+      "lng": -5.545361
     }
   },
   {
@@ -226264,6 +226800,14 @@
     }
   },
   {
+    "name": "Escultura Sembradora de Cereales",
+    "address": "Av. Extremadura, 103, 06150 Sta Marta, Badajoz, Spain",
+    "location": {
+      "lat": 38.612596,
+      "lng": -6.62706
+    }
+  },
+  {
     "name": "Escultura Senyera",
     "address": "Carrer Onze de Setembre, 2-4, 08860 Castelldefels, Barcelona, Spain",
     "location": {
@@ -237064,6 +237608,14 @@
     }
   },
   {
+    "name": "Estadio De Fútbol",
+    "address": "Poligono Pau las Montanillas, 2615P, 45216, Toledo, Spain",
+    "location": {
+      "lat": 40.162692,
+      "lng": -3.904062
+    }
+  },
+  {
     "name": "Estadio De Fútbol Francisco De La Hera",
     "address": "Calle Badajoz, 3-5, 06200 Almendralejo, Badajoz, Spain",
     "location": {
@@ -237288,6 +237840,14 @@
     }
   },
   {
+    "name": "Estadio Wanda Alcalá",
+    "address": "Av. de los Jesuitas, 44, 28805 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.507316,
+      "lng": -3.359566
+    }
+  },
+  {
     "name": "Estalagmita del Museo Nacional de Ciencias Naturales",
     "address": "Centro de Electrónica Industrial, C. de José Gutiérrez Abascal, 2, Chamartín, 28006 Madrid, Spain",
     "location": {
@@ -237421,6 +237981,14 @@
     "location": {
       "lat": 40.446909,
       "lng": -3.626263
+    }
+  },
+  {
+    "name": "Estanque Centro de Ocio Adequa",
+    "address": "A-1 Vía de Servicio, 89G, Fuencarral-El Pardo, 28050 Madrid, Spain",
+    "location": {
+      "lat": 40.493294,
+      "lng": -3.673344
     }
   },
   {
@@ -237773,6 +238341,14 @@
     "location": {
       "lat": 38.913625,
       "lng": -6.355443
+    }
+  },
+  {
+    "name": "Estanque Parque De La Solidaridad",
+    "address": "Paseo de Setúbal, 31, 28942 Fuenlabrada, Madrid, Spain",
+    "location": {
+      "lat": 40.281825,
+      "lng": -3.810715
     }
   },
   {
@@ -240789,6 +241365,14 @@
     "location": {
       "lat": 40.457206,
       "lng": -3.621936
+    }
+  },
+  {
+    "name": "Estrada Romana de Castelo Novo",
+    "address": "R. dos Mercadores 2, 6230-160 Castelo Novo, Portugal",
+    "location": {
+      "lat": 40.076788,
+      "lng": -7.493559
     }
   },
   {
@@ -251157,6 +251741,14 @@
     "location": {
       "lat": 41.403676,
       "lng": 2.145013
+    }
+  },
+  {
+    "name": "Flor Gigante",
+    "address": "C. Prta Cerrada, 2D, 28905 Getafe, Madrid, Spain",
+    "location": {
+      "lat": 40.285412,
+      "lng": -3.745464
     }
   },
   {
@@ -263744,6 +264336,14 @@
     }
   },
   {
+    "name": "Fontana Redonda",
+    "address": "M-506, 28942 Fuenlabrada, Madrid, Spain",
+    "location": {
+      "lat": 40.282267,
+      "lng": -3.8111
+    }
+  },
+  {
     "name": "Fontana Rollerie",
     "address": "C. de Ramón y Cajal, 10, 28801 Alcalá de Henares, Madrid, Spain",
     "location": {
@@ -264416,6 +265016,14 @@
     }
   },
   {
+    "name": "Fonte da Granja",
+    "address": "R. Fernando Namora 13, 6000-228 Castelo Branco, Portugal",
+    "location": {
+      "lat": 39.817574,
+      "lng": -7.501812
+    }
+  },
+  {
     "name": "Fonte Da Igreja",
     "address": "Rua Nova 12, 6250-039 Belmonte, Portugal",
     "location": {
@@ -264981,6 +265589,14 @@
     "location": {
       "lat": 40.406817,
       "lng": -7.402193
+    }
+  },
+  {
+    "name": "Fonte De Vila Viçosa",
+    "address": "R. Martim Afonso de Sousa 16, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.782344,
+      "lng": -7.4183
     }
   },
   {
@@ -265624,6 +266240,14 @@
     }
   },
   {
+    "name": "Fonte espaco comercial Quinta Augusta",
+    "address": "Av. do Alandroal 17, 7160-221 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.775487,
+      "lng": -7.415335
+    }
+  },
+  {
     "name": "Fonte Estrada Da Guarda",
     "address": "N16, 6300, Portugal",
     "location": {
@@ -265837,6 +266461,14 @@
     "location": {
       "lat": 40.548539,
       "lng": -7.245206
+    }
+  },
+  {
+    "name": "Fonte Sueca",
+    "address": "R. de São Tiago 5, 6320-452 Sabugal, Portugal",
+    "location": {
+      "lat": 40.352587,
+      "lng": -7.093289
     }
   },
   {
@@ -275176,6 +275808,14 @@
     }
   },
   {
+    "name": "Fuente de la Alhambra",
+    "address": "Calle es Doctor Calero, 42, 28220 Majadahonda, Madrid, Spain",
+    "location": {
+      "lat": 40.473793,
+      "lng": -3.869922
+    }
+  },
+  {
     "name": "Fuente de La Aliseda",
     "address": "Calle Recreo, 2T, 37700 Béjar, Salamanca, Spain",
     "location": {
@@ -276784,6 +277424,14 @@
     }
   },
   {
+    "name": "Fuente de Leganés",
+    "address": "Calle de Chile, 28918 Leganés, Madrid, Spain",
+    "location": {
+      "lat": 40.342675,
+      "lng": -3.764534
+    }
+  },
+  {
     "name": "Fuente de Lelis",
     "address": "Parque Ciudad de los Ángeles, 26, 28041 Madrid, Spain",
     "location": {
@@ -277952,6 +278600,14 @@
     }
   },
   {
+    "name": "Fuente de Piedra",
+    "address": "Unnamed Road, 28280 El Escorial, Madrid, Spain",
+    "location": {
+      "lat": 40.5845,
+      "lng": -4.137908
+    }
+  },
+  {
     "name": "Fuente de piedra",
     "address": "Urb. Santa Ana, 30, 37700 Béjar, Salamanca, Spain",
     "location": {
@@ -278189,6 +278845,14 @@
     "location": {
       "lat": 40.307644,
       "lng": -3.691121
+    }
+  },
+  {
+    "name": "Fuente de piedras",
+    "address": "C. Alta de Aragón, 6T, 19160 Chiloeches, Guadalajara, Spain",
+    "location": {
+      "lat": 40.573609,
+      "lng": -3.163074
     }
   },
   {
@@ -280357,6 +281021,14 @@
     "location": {
       "lat": 41.544436,
       "lng": 1.888665
+    }
+  },
+  {
+    "name": "Fuente del Parque del Ocio",
+    "address": "C. Meridiano, 11, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.449474,
+      "lng": -3.478252
     }
   },
   {
@@ -287096,6 +287768,14 @@
     }
   },
   {
+    "name": "Fuente potable",
+    "address": "Calle Miosotis, 24, 28039 Madrid, Spain",
+    "location": {
+      "lat": 40.464826,
+      "lng": -3.700043
+    }
+  },
+  {
     "name": "Fuente Potable del Pipican",
     "address": "Carrer del Roure, 23, 08292 Esparreguera, Barcelona, Spain",
     "location": {
@@ -291616,6 +292296,14 @@
     }
   },
   {
+    "name": "Futsal",
+    "address": "C. Francisco Rabal, 10, 28918 Leganés, Madrid, Spain",
+    "location": {
+      "lat": 40.33893,
+      "lng": -3.766127
+    }
+  },
+  {
     "name": "Futsal Canaleja",
     "address": "Av. Circunvalación Norte, 1, Alcorcón, Madrid, Spain",
     "location": {
@@ -291885,6 +292573,14 @@
     "location": {
       "lat": 38.861574,
       "lng": -6.321644
+    }
+  },
+  {
+    "name": "Fábrica de São Paulo",
+    "address": "R. do Convento 1, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.776126,
+      "lng": -7.417509
     }
   },
   {
@@ -294725,6 +295421,14 @@
     "location": {
       "lat": 40.298433,
       "lng": -3.803838
+    }
+  },
+  {
+    "name": "Gato abstracto",
+    "address": "Paseo General Sagardía Ramos, 1, 28039 Madrid, Madrid, Spain",
+    "location": {
+      "lat": 40.461458,
+      "lng": -3.714835
     }
   },
   {
@@ -299157,6 +299861,14 @@
     "location": {
       "lat": 38.875892,
       "lng": -7.160447
+    }
+  },
+  {
+    "name": "Ginásio ao Ar livre - Volantes",
+    "address": "R. Dr. Joaquim Luís Pereira Trindade 4, 7150 Borba, Portugal",
+    "location": {
+      "lat": 38.805805,
+      "lng": -7.463492
     }
   },
   {
@@ -308232,6 +308944,14 @@
     }
   },
   {
+    "name": "Graffiti El Árbol de la vida",
+    "address": "Calle del Río San Lorenzo, 18, 28018 Madrid, Spain",
+    "location": {
+      "lat": 40.387916,
+      "lng": -3.652008
+    }
+  },
+  {
     "name": "Graffiti El Árbol de la Vida",
     "address": "Calle Sierra de Cuenca, 2, 28053 Madrid, Spain",
     "location": {
@@ -311941,6 +312661,14 @@
     "location": {
       "lat": 41.405823,
       "lng": 2.180632
+    }
+  },
+  {
+    "name": "Graffiti Motero",
+    "address": "Camino del Obispo, 28935 Móstoles, Madrid, Spain",
+    "location": {
+      "lat": 40.328854,
+      "lng": -3.890536
     }
   },
   {
@@ -317464,6 +318192,14 @@
     }
   },
   {
+    "name": "Graffitty Bird",
+    "address": "R. dos Fornos 7, 7350 Vila Boim, Portugal",
+    "location": {
+      "lat": 38.860982,
+      "lng": -7.277518
+    }
+  },
+  {
     "name": "Graffity",
     "address": "Carrer de la Indústria, 12, 43700 El Vendrell, Tarragona, Spain",
     "location": {
@@ -322304,6 +323040,14 @@
     }
   },
   {
+    "name": "Grafiti Wild Style.",
+    "address": "C. Teresa Zabell, 8, 45510 Fuensalida, Toledo, Spain",
+    "location": {
+      "lat": 40.055223,
+      "lng": -4.193197
+    }
+  },
+  {
     "name": "Grafiti Woman",
     "address": "Carrer Tomàs Milans, 7, 08360 Canet de Mar, Barcelona, Spain",
     "location": {
@@ -325576,6 +326320,14 @@
     }
   },
   {
+    "name": "GrandPrix",
+    "address": "Av. Rey Juan Carlos I, 8, 28915 Leganés, Madrid, Spain",
+    "location": {
+      "lat": 40.335296,
+      "lng": -3.758898
+    }
+  },
+  {
     "name": "granero decorado de valdetorres",
     "address": "Cam. de la Vega, 10, 28150 Valdetorres de Jarama, Madrid, Spain",
     "location": {
@@ -327200,6 +327952,14 @@
     }
   },
   {
+    "name": "Grupo Ornitológico",
+    "address": "Calle Bartolome de Castro, 3, 28802 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.478377,
+      "lng": -3.379179
+    }
+  },
+  {
     "name": "Grupo Placentino de Montaña",
     "address": "Calle Fabián de Monroy, 5, 10600 Plasencia, Cáceres, Spain",
     "location": {
@@ -327597,6 +328357,14 @@
     "location": {
       "lat": 38.779466,
       "lng": -7.415077
+    }
+  },
+  {
+    "name": "Guarida Oeste do Castelo",
+    "address": "R. dos Capuchos 8, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.779965,
+      "lng": -7.413898
     }
   },
   {
@@ -332944,6 +333712,14 @@
     }
   },
   {
+    "name": "Hito en Rivas del Camino de Santiago, Camino Uclés y Vía Pecuaria",
+    "address": "Ctra.A3-Est.Rivas Vaciamadrid, 28521, Madrid, Spain",
+    "location": {
+      "lat": 40.325716,
+      "lng": -3.5223
+    }
+  },
+  {
     "name": "Hito Ermita de Bellvitge",
     "address": "Carrer de l'Ermita de Bellvitge, 6, 08907 L'Hospitalet de Llobregat, Barcelona, Spain",
     "location": {
@@ -334392,6 +335168,14 @@
     }
   },
   {
+    "name": "Homenagem Ao Padre Izidro 1984",
+    "address": "Bairro Nuno Álvares Pereira, 6290 Gouveia, Portugal",
+    "location": {
+      "lat": 40.496619,
+      "lng": -7.592772
+    }
+  },
+  {
     "name": "Homenagem ao Padre Parente",
     "address": "R. Dr. Sobral 2, 6260-188 Manteigas, Portugal",
     "location": {
@@ -334405,6 +335189,14 @@
     "location": {
       "lat": 40.402493,
       "lng": -7.540312
+    }
+  },
+  {
+    "name": "homenagem ao professor Hermogenes",
+    "address": "R. Sidónio Pais 10, 3530-219 Mangualde, Portugal",
+    "location": {
+      "lat": 40.604523,
+      "lng": -7.767138
     }
   },
   {
@@ -341632,6 +342424,14 @@
     }
   },
   {
+    "name": "Iglesia - La Luz del Mundo",
+    "address": "Spain, Cmo de Madre Vieja, 29, 06006 Badajoz, Spain",
+    "location": {
+      "lat": 38.880523,
+      "lng": -6.993034
+    }
+  },
+  {
     "name": "Iglesia Adventista",
     "address": "Av. de Tenerife, 11, 28702 San Sebastián de los Reyes, Madrid, Spain",
     "location": {
@@ -343416,6 +344216,14 @@
     }
   },
   {
+    "name": "Iglesia de nuestra señora de lourdes",
+    "address": "Camino Sotillos, s/n, 05400 Arenas de San Pedro, Ávila, Spain",
+    "location": {
+      "lat": 40.209942,
+      "lng": -5.082249
+    }
+  },
+  {
     "name": "Iglesia De Nuestra Señora Del Carmen S. XVII",
     "address": "Calle Carmen, 15, 28013 Madrid, Spain",
     "location": {
@@ -344149,6 +344957,14 @@
     "location": {
       "lat": 39.460569,
       "lng": -5.884502
+    }
+  },
+  {
+    "name": "Iglesia De Santa María Magdalena",
+    "address": "Plaza Iglesia, 1, 45216 Carranque, Toledo, Spain",
+    "location": {
+      "lat": 40.169264,
+      "lng": -3.900632
     }
   },
   {
@@ -354632,6 +355448,14 @@
     }
   },
   {
+    "name": "Instituto da Padroeira de Portugal",
+    "address": "R. de Estremoz 4, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.78118,
+      "lng": -7.416141
+    }
+  },
+  {
     "name": "Instituto de Catálisis y Petroquímica",
     "address": "Calle de Marie Curie, 2, 28049 Madrid, Spain",
     "location": {
@@ -356400,6 +357224,14 @@
     }
   },
   {
+    "name": "Itinerario Geológico a la Villuerca",
+    "address": "C. Francisco Pizarro, 7, 10374 Navezuelas, Cáceres, Spain",
+    "location": {
+      "lat": 39.509039,
+      "lng": -5.436677
+    }
+  },
+  {
     "name": "Itinerario Geológico Relieve Apalachense",
     "address": "C. Solana, 5, 10374 Navezuelas, Cáceres, Spain",
     "location": {
@@ -357685,6 +358517,14 @@
     "location": {
       "lat": 40.271435,
       "lng": -7.498051
+    }
+  },
+  {
+    "name": "Jardim das Poldras",
+    "address": "Bairro Quinta das Poldras 32, 6320 Sabugal, Portugal",
+    "location": {
+      "lat": 40.356387,
+      "lng": -7.09277
     }
   },
   {
@@ -364744,6 +365584,14 @@
     }
   },
   {
+    "name": "Juegos en Arena",
+    "address": "Unnamed Road, 28055 Madrid, Spain",
+    "location": {
+      "lat": 40.485199,
+      "lng": -3.6262
+    }
+  },
+  {
     "name": "Juegos en el Parque del Retiro",
     "address": "Paseo Fernán Núñez, 12, 28009 Madrid, Spain",
     "location": {
@@ -365432,6 +366280,14 @@
     }
   },
   {
+    "name": "Juegos Infantiles Valdebebas",
+    "address": "Camino Cerro de la Cabana, 39, 28055 Madrid, Spain",
+    "location": {
+      "lat": 40.486256,
+      "lng": -3.636654
+    }
+  },
+  {
     "name": "Juegos Interactivos",
     "address": "Av. de Francesc Macià, 13, 08206 Sabadell, Barcelona, Spain",
     "location": {
@@ -365629,6 +366485,14 @@
     "location": {
       "lat": 40.463475,
       "lng": -3.585427
+    }
+  },
+  {
+    "name": "Juegos Todoterreno",
+    "address": "Calle Cid Campeador, 7, 28935 Móstoles, Madrid, Spain",
+    "location": {
+      "lat": 40.328042,
+      "lng": -3.874027
     }
   },
   {
@@ -373928,6 +374792,14 @@
     }
   },
   {
+    "name": "La Costurera",
+    "address": "Calle Juan Picornell, 20, 37006 Salamanca, Spain",
+    "location": {
+      "lat": 40.972111,
+      "lng": -5.665119
+    }
+  },
+  {
     "name": "La costurera",
     "address": "Paseo de la Estación, 17A, 28904 Getafe, Madrid, Spain",
     "location": {
@@ -374165,6 +375037,14 @@
     "location": {
       "lat": 40.436202,
       "lng": -3.660503
+    }
+  },
+  {
+    "name": "La Cruz Vacía",
+    "address": "Ronda Toledo, 2, 28005 Madrid, Spain",
+    "location": {
+      "lat": 40.405775,
+      "lng": -3.709491
     }
   },
   {
@@ -377733,6 +378613,14 @@
     "location": {
       "lat": 40.374714,
       "lng": -3.753433
+    }
+  },
+  {
+    "name": "La granja de Nieto",
+    "address": "Calle la Tercia, 147, 19170 El Casar, Guadalajara, Spain",
+    "location": {
+      "lat": 40.703403,
+      "lng": -3.433278
     }
   },
   {
@@ -381376,6 +382264,14 @@
     }
   },
   {
+    "name": "La pared de placas de matriculación",
+    "address": "C. Ítaca, 1, 28232 Las Rozas de Madrid, Madrid, Spain",
+    "location": {
+      "lat": 40.514622,
+      "lng": -3.91476
+    }
+  },
+  {
     "name": "La pareja y el diván",
     "address": "Carrer de Josep Anselm Clavé, 132, 08640 Olesa de Montserrat, Barcelona, Spain",
     "location": {
@@ -381781,6 +382677,14 @@
     "location": {
       "lat": 41.200635,
       "lng": 1.636842
+    }
+  },
+  {
+    "name": "La Pergola del Cipres",
+    "address": "Av. de León, 1A, 28805 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.513637,
+      "lng": -3.348959
     }
   },
   {
@@ -384369,6 +385273,14 @@
   },
   {
     "name": "La Tacita",
+    "address": "C. Osa de la Vega, 25, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.375061,
+      "lng": -3.773783
+    }
+  },
+  {
+    "name": "La Tacita",
     "address": "Calle Río Sorbe, 6, 28803 Alcalá de Henares, Madrid, Spain",
     "location": {
       "lat": 40.474713,
@@ -384413,6 +385325,14 @@
     "location": {
       "lat": 41.335757,
       "lng": 1.466735
+    }
+  },
+  {
+    "name": "La Tapa Politécnica",
+    "address": "Avenida Lope de Figueroa, 28805 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.513486,
+      "lng": -3.350295
     }
   },
   {
@@ -388016,6 +388936,14 @@
     }
   },
   {
+    "name": "Las chicas superpoderosas",
+    "address": "FG2C+GQ Torrejón de Ardoz, Spain",
+    "location": {
+      "lat": 40.451317,
+      "lng": -3.478115
+    }
+  },
+  {
     "name": "Las Cigueñas",
     "address": "Avenida Madrid, 44, 10200 Trujillo, Cáceres, Spain",
     "location": {
@@ -388760,6 +389688,14 @@
     }
   },
   {
+    "name": "Las Puertas M50 Capital",
+    "address": "Calle Islas Canarias, 5E, 28905 Getafe, Madrid, Spain",
+    "location": {
+      "lat": 40.281906,
+      "lng": -3.749633
+    }
+  },
+  {
     "name": "Las pérgolas",
     "address": "El Faro del Guadiana Shopping Centre, 06006 Badajoz, Spain",
     "location": {
@@ -388797,6 +389733,14 @@
     "location": {
       "lat": 40.961967,
       "lng": -5.689102
+    }
+  },
+  {
+    "name": "Las Rosas",
+    "address": "Av. de los Fresnos, 6, local 11, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.446563,
+      "lng": -3.470712
     }
   },
   {
@@ -389565,6 +390509,14 @@
     "location": {
       "lat": 38.838683,
       "lng": -7.587424
+    }
+  },
+  {
+    "name": "Lavadouro Municipal",
+    "address": "R. Luís Casadinho 7, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.781876,
+      "lng": -7.417443
     }
   },
   {
@@ -392589,6 +393541,14 @@
     "location": {
       "lat": 40.465404,
       "lng": -3.686616
+    }
+  },
+  {
+    "name": "Ligustros",
+    "address": "R. da Mata 66, 7160-201 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.775686,
+      "lng": -7.419911
     }
   },
   {
@@ -398741,6 +399701,14 @@
     "location": {
       "lat": 40.422445,
       "lng": -3.673368
+    }
+  },
+  {
+    "name": "Luis Casimiro",
+    "address": "C. Florinda Chico, 59, 06400 Don Benito, Badajoz, Spain",
+    "location": {
+      "lat": 38.964635,
+      "lng": -5.865181
     }
   },
   {
@@ -407064,6 +408032,14 @@
     }
   },
   {
+    "name": "Mapa UAM Entrada Sur",
+    "address": "Calle Kelsen, 1, 28049 Madrid, Spain",
+    "location": {
+      "lat": 40.541864,
+      "lng": -3.690091
+    }
+  },
+  {
     "name": "Mapa ubicació Pere Virgili",
     "address": "Carrer d'Esteve Terradas, 30, Gràcia, 08023 Barcelona, Spain",
     "location": {
@@ -407093,6 +408069,14 @@
     "location": {
       "lat": 41.387787,
       "lng": 2.114165
+    }
+  },
+  {
+    "name": "Mapa urbanistico de El Castillo",
+    "address": "Av. Madrid, 4, 28670 Villaviciosa de Odón, Madrid, Spain",
+    "location": {
+      "lat": 40.356242,
+      "lng": -3.894743
     }
   },
   {
@@ -416392,6 +417376,14 @@
     }
   },
   {
+    "name": "Maíz feliz",
+    "address": "Carr. de Alpedrete, 1, 28400 Collado Villalba, Madrid, Spain",
+    "location": {
+      "lat": 40.64772,
+      "lng": -3.996433
+    }
+  },
+  {
     "name": "Maïami",
     "address": "Carrer Jaume I, 10, 08241 Manresa, Barcelona, Spain",
     "location": {
@@ -419240,6 +420232,14 @@
     }
   },
   {
+    "name": "Mercado Valle Inclán",
+    "address": "C. de Valle Inclán, 24, Latina, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.380175,
+      "lng": -3.77181
+    }
+  },
+  {
     "name": "Mercado Villa de Vallecas",
     "address": "Calle Sierra Vieja, 63A, 28031 Madrid, Spain",
     "location": {
@@ -420653,6 +421653,14 @@
     "location": {
       "lat": 40.700877,
       "lng": -3.933644
+    }
+  },
+  {
+    "name": "Merendero De Madera",
+    "address": "Univ.alcalá-jardín Botánico, 28805 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.50535,
+      "lng": -3.340607
     }
   },
   {
@@ -431624,6 +432632,14 @@
     }
   },
   {
+    "name": "Mirador De La Presa De Entrepeñas",
+    "address": "Ctra. Carreter Cuenca, 56, 19120 Sacedón, Guadalajara, Spain",
+    "location": {
+      "lat": 40.490857,
+      "lng": -2.739823
+    }
+  },
+  {
     "name": "Mirador de la Punta Grossa",
     "address": "Unnamed Road, 08870 Sitges, Barcelona, Spain",
     "location": {
@@ -431861,6 +432877,14 @@
     "location": {
       "lat": 40.463701,
       "lng": -3.43408
+    }
+  },
+  {
+    "name": "Mirador del Alto del Hilo",
+    "address": "Alto del Hilo, Unnamed Road, 28491, 28490, Madrid, Spain",
+    "location": {
+      "lat": 40.719493,
+      "lng": -3.99945
     }
   },
   {
@@ -435877,6 +436901,14 @@
     "location": {
       "lat": 41.293841,
       "lng": 1.258935
+    }
+  },
+  {
+    "name": "Monolito Arco Verde",
+    "address": "Cmo. de La Hoyada, 28983 Fuenlabrada, Madrid, Spain",
+    "location": {
+      "lat": 40.251522,
+      "lng": -3.7565
     }
   },
   {
@@ -441197,6 +442229,14 @@
     "location": {
       "lat": 40.394875,
       "lng": -3.491287
+    }
+  },
+  {
+    "name": "Monumento a la Universidad",
+    "address": "C. Einstein, 2, 28049 Madrid, Spain",
+    "location": {
+      "lat": 40.542993,
+      "lng": -3.697769
     }
   },
   {
@@ -447144,6 +448184,14 @@
     }
   },
   {
+    "name": "Mosteiro dos Agostinhos",
+    "address": "Largo Mariano Presado 9, 7160-255 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.782396,
+      "lng": -7.420082
+    }
+  },
+  {
     "name": "Mostoles city",
     "address": "Paseo de Arroyomolinos, 5C, 28938 Móstoles, Madrid, Spain",
     "location": {
@@ -448917,6 +449965,14 @@
     "location": {
       "lat": 39.447822,
       "lng": -5.20831
+    }
+  },
+  {
+    "name": "Mujer despeinada",
+    "address": "C. Camarena, 167, 28047 Madrid, Spain",
+    "location": {
+      "lat": 40.388884,
+      "lng": -3.75488
     }
   },
   {
@@ -452232,6 +453288,14 @@
     }
   },
   {
+    "name": "Mural Artístico Veraniego",
+    "address": "Calle Niza, 4, 28936 Móstoles, Madrid, Spain",
+    "location": {
+      "lat": 40.325793,
+      "lng": -3.84952
+    }
+  },
+  {
     "name": "Mural ARYZ",
     "address": "Carrer Torrent Llibre, 15, 08440 Cardedeu, Barcelona, Spain",
     "location": {
@@ -453069,6 +454133,14 @@
     "location": {
       "lat": 40.410612,
       "lng": -3.729488
+    }
+  },
+  {
+    "name": "Mural Calavera",
+    "address": "Ronda Sur, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.439307,
+      "lng": -3.458091
     }
   },
   {
@@ -467112,6 +468184,14 @@
     }
   },
   {
+    "name": "Mural Villa de Alía",
+    "address": "EX-102, 51, 10137 Alía, Cáceres, Spain",
+    "location": {
+      "lat": 39.451392,
+      "lng": -5.217016
+    }
+  },
+  {
     "name": "Mural Villa de Fuenlabrada",
     "address": "Calle de Móstoles, 52, 28943 Fuenlabrada, Madrid, Spain",
     "location": {
@@ -472285,6 +473365,14 @@
     "location": {
       "lat": 40.962116,
       "lng": -5.654929
+    }
+  },
+  {
+    "name": "Máquinas metálicas de ejercicios Don Juan Tenorio",
+    "address": "Calle Antonio Llorente Maldonado, 39, 37007 Salamanca, Spain",
+    "location": {
+      "lat": 40.964753,
+      "lng": -5.688491
     }
   },
   {
@@ -478664,6 +479752,14 @@
     }
   },
   {
+    "name": "O retrato",
+    "address": "Largo Gago Coutinho 11, 7160-214 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.776867,
+      "lng": -7.419776
+    }
+  },
+  {
     "name": "O Uivo - Monumento aos Motards",
     "address": "6GP6+8P, 6200 Tortosendo, Portugal",
     "location": {
@@ -479237,6 +480333,14 @@
     "location": {
       "lat": 40.448305,
       "lng": -3.597422
+    }
+  },
+  {
+    "name": "Obrero Extremeño",
+    "address": "Calle Carolina Coronado, 2, 06200 Almendralejo, Badajoz, Spain",
+    "location": {
+      "lat": 38.68212,
+      "lng": -6.409685
     }
   },
   {
@@ -487208,6 +488312,14 @@
     }
   },
   {
+    "name": "Pabellón Municipal Polideportivos",
+    "address": "C. Doñana, 3, 45183 Las Ventas de Retamosa, Toledo, Spain",
+    "location": {
+      "lat": 40.160297,
+      "lng": -4.120438
+    }
+  },
+  {
     "name": "Pabellón Municipal Sta. Coloma Cervelló",
     "address": "Avinguda dels Països Catalans, 1, 08690 Santa Coloma de Cervelló, Barcelona, Spain",
     "location": {
@@ -491088,6 +492200,14 @@
     }
   },
   {
+    "name": "Palácio Dos Condes De Anadia Mangualde",
+    "address": "Rua do Cabo Davila 1, 3530-149 Mangualde, Portugal",
+    "location": {
+      "lat": 40.604432,
+      "lng": -7.765571
+    }
+  },
+  {
     "name": "Palácio dos Marqueses de Praia e Monforte",
     "address": "R. Vasco da Gama 3, 7100-106 Estremoz, Portugal",
     "location": {
@@ -491157,6 +492277,14 @@
     "location": {
       "lat": 41.45385,
       "lng": 2.21862
+    }
+  },
+  {
+    "name": "Pan Y Bollos",
+    "address": "Plaza San Francisco de Asís, 15, 28802 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.476528,
+      "lng": -3.377921
     }
   },
   {
@@ -492320,6 +493448,14 @@
     }
   },
   {
+    "name": "Panel informativo de la zona agricola",
+    "address": "F9PH+6X Madrid, Spain",
+    "location": {
+      "lat": 40.485533,
+      "lng": -3.620042
+    }
+  },
+  {
     "name": "Panel informativo de las clases sociales en la edad Media",
     "address": "Carrer Major, 4, 08757 Corbera de Llobregat, Barcelona, Spain",
     "location": {
@@ -492357,6 +493493,14 @@
     "location": {
       "lat": 38.680304,
       "lng": -7.102178
+    }
+  },
+  {
+    "name": "Panel Informativo de Orientación",
+    "address": "Av. Villarreal, 0, 06100 Olivenza, Badajoz, Spain",
+    "location": {
+      "lat": 38.683117,
+      "lng": -7.105021
     }
   },
   {
@@ -493941,6 +495085,14 @@
     "location": {
       "lat": 40.4093,
       "lng": -3.767073
+    }
+  },
+  {
+    "name": "Papá Pitufo",
+    "address": "Pasarela Parque Recinto Ferial a Parking alternativo, Unnamed Road 28850, 28850, Madrid, Spain",
+    "location": {
+      "lat": 40.452575,
+      "lng": -3.478674
     }
   },
   {
@@ -511032,6 +512184,14 @@
     }
   },
   {
+    "name": "Parque Alcalá Entrada Paseo",
+    "address": "A-2, 15, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.466624,
+      "lng": -3.434805
+    }
+  },
+  {
     "name": "Parque Alcalá Entrada Rotonda",
     "address": "Av. de la Constitución, 502, 28850 Torrejón de Ardoz, Madrid, Spain",
     "location": {
@@ -511785,6 +512945,14 @@
   },
   {
     "name": "Parque Biosaludable",
+    "address": "Calle López de Ayala, 33, 06200 Almendralejo, Badajoz, Spain",
+    "location": {
+      "lat": 38.680181,
+      "lng": -6.413601
+    }
+  },
+  {
+    "name": "Parque Biosaludable",
     "address": "Camino de la Torre, 58, 45910, Toledo, Spain",
     "location": {
       "lat": 40.17183,
@@ -511853,6 +513021,14 @@
     "location": {
       "lat": 40.294844,
       "lng": -3.784352
+    }
+  },
+  {
+    "name": "Parque Biosaludable Solidaridad",
+    "address": "Paseo de Setúbal, 28942 Fuenlabrada, Madrid, Spain",
+    "location": {
+      "lat": 40.283553,
+      "lng": -3.811332
     }
   },
   {
@@ -513136,6 +514312,14 @@
     }
   },
   {
+    "name": "Parque Castillo de Oropesa",
+    "address": "C. del Castillo de Oropesa, 37, 28037 Madrid, Spain",
+    "location": {
+      "lat": 40.427265,
+      "lng": -3.628625
+    }
+  },
+  {
     "name": "Parque Castillo Verde",
     "address": "Camino del Cementerio, 11D, 28240 Hoyo de Manzanares, Madrid, Spain",
     "location": {
@@ -514141,6 +515325,14 @@
     "location": {
       "lat": 40.385125,
       "lng": -3.766069
+    }
+  },
+  {
+    "name": "Parque de barras",
+    "address": "Calle Virgen de los Rosales, 38, 28023 Madrid, Spain",
+    "location": {
+      "lat": 40.453123,
+      "lng": -3.77539
     }
   },
   {
@@ -515621,6 +516813,14 @@
     "location": {
       "lat": 41.458038,
       "lng": 2.215862
+    }
+  },
+  {
+    "name": "Parque De Juegos La Hormiga",
+    "address": "Av. República Argentina, 22, 06100 Olivenza, Badajoz, Spain",
+    "location": {
+      "lat": 38.690509,
+      "lng": -7.091941
     }
   },
   {
@@ -519048,6 +520248,14 @@
     }
   },
   {
+    "name": "Parque del columpio",
+    "address": "Terreno Sus, 24R, 28977, Madrid, Spain",
+    "location": {
+      "lat": 40.16808,
+      "lng": -3.833146
+    }
+  },
+  {
     "name": "Parque del Consultorio",
     "address": "Calle César Hurtado Delicado, 19, 06130 Valverde de Leganés, Badajoz, Spain",
     "location": {
@@ -520429,6 +521637,14 @@
     "location": {
       "lat": 40.447911,
       "lng": -3.598957
+    }
+  },
+  {
+    "name": "Parque Emilia Pardo Bazán",
+    "address": "C. Emilia Pardo Bazán, 21, 28806 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.50483,
+      "lng": -3.373961
     }
   },
   {
@@ -522069,6 +523285,14 @@
     "location": {
       "lat": 40.414798,
       "lng": -3.915285
+    }
+  },
+  {
+    "name": "Parque infantil",
+    "address": "C. la Alberca, 75, 37198 Carbajosa de la Sagrada, Salamanca, Spain",
+    "location": {
+      "lat": 40.941989,
+      "lng": -5.642081
     }
   },
   {
@@ -524953,6 +526177,14 @@
   },
   {
     "name": "Parque Infantil Andalucía",
+    "address": "C. de Andalucía, 15, 28007 Madrid, Spain",
+    "location": {
+      "lat": 40.401498,
+      "lng": -3.672242
+    }
+  },
+  {
+    "name": "Parque Infantil Andalucía",
     "address": "Calle de Burgos, 1, 28804 Alcalá de Henares, Madrid, Spain",
     "location": {
       "lat": 40.488458,
@@ -526872,6 +528104,14 @@
     }
   },
   {
+    "name": "Parque Infantil Casa Plata I",
+    "address": "Calle la Habana, 10005 Cáceres, Spain",
+    "location": {
+      "lat": 39.453125,
+      "lng": -6.375562
+    }
+  },
+  {
     "name": "Parque infantil Casandra",
     "address": "C. Ángel Beato, 9, 28035 Madrid, Spain",
     "location": {
@@ -528261,6 +529501,14 @@
     "location": {
       "lat": 38.879398,
       "lng": -6.776864
+    }
+  },
+  {
+    "name": "Parque infantil de Elvas",
+    "address": "R. da Quinta do Sena 4, 7350 Elvas, Portugal",
+    "location": {
+      "lat": 38.874375,
+      "lng": -7.182676
     }
   },
   {
@@ -533176,6 +534424,14 @@
     }
   },
   {
+    "name": "Parque Infantil Las 2 Torres",
+    "address": "Plazuela de la Fuente Clara, 37008 Salamanca, Spain",
+    "location": {
+      "lat": 40.946455,
+      "lng": -5.670512
+    }
+  },
+  {
     "name": "Parque Infantil Las Artes",
     "address": "Calle Granada, 2A, 28935 Móstoles, Madrid, Spain",
     "location": {
@@ -535184,6 +536440,14 @@
     }
   },
   {
+    "name": "Parque Infantil Parque Blanco",
+    "address": "C. de Buenos Aires, 14, 28822 Coslada, Madrid, Spain",
+    "location": {
+      "lat": 40.424404,
+      "lng": -3.55762
+    }
+  },
+  {
     "name": "Parque Infantil Parque Calero",
     "address": "Calle Virgen de Nuria, 2, 28027 Madrid, Madrid, Spain",
     "location": {
@@ -535581,6 +536845,14 @@
     "location": {
       "lat": 40.340213,
       "lng": -3.902256
+    }
+  },
+  {
+    "name": "Parque Infantil Pingüino",
+    "address": "Calle Pingüino, 12, 28047 Madrid, Spain",
+    "location": {
+      "lat": 40.380736,
+      "lng": -3.750493
     }
   },
   {
@@ -536800,6 +538072,14 @@
     }
   },
   {
+    "name": "Parque Infantil San Federico",
+    "address": "C. de Francos Rodríguez, 106, Moncloa - Aravaca, 28039 Madrid, Spain",
+    "location": {
+      "lat": 40.462125,
+      "lng": -3.715759
+    }
+  },
+  {
     "name": "Parque Infantil San Fernando",
     "address": "Calle Maestro Sorozábal, 1, 28851 Torrejón de Ardoz, Madrid, Spain",
     "location": {
@@ -537245,6 +538525,14 @@
     "location": {
       "lat": 40.394978,
       "lng": -3.766565
+    }
+  },
+  {
+    "name": "Parque infantil Severiano",
+    "address": "Calle de San Lázaro, 5, 37300 Peñaranda de Bracamonte, Salamanca, Spain",
+    "location": {
+      "lat": 40.904761,
+      "lng": -5.202381
     }
   },
   {
@@ -542760,6 +544048,14 @@
     }
   },
   {
+    "name": "Parque Ribeiro",
+    "address": "Calle Ribeiro, 14, 28915 Leganés, Madrid, Spain",
+    "location": {
+      "lat": 40.337602,
+      "lng": -3.750866
+    }
+  },
+  {
     "name": "Parque Riera",
     "address": "Carrer del Doctor Gimbernat, 29-31, 08191 Rubí, Barcelona, Spain",
     "location": {
@@ -543229,6 +544525,14 @@
     "location": {
       "lat": 40.493491,
       "lng": -3.708383
+    }
+  },
+  {
+    "name": "Parque Sancho Panza",
+    "address": "Calle 11 de Marzo, 2T, 45216 Carranque, Toledo, Spain",
+    "location": {
+      "lat": 40.167486,
+      "lng": -3.901038
     }
   },
   {
@@ -545304,6 +546608,14 @@
     }
   },
   {
+    "name": "Parroquia De La Santa Cruz",
+    "address": "Calle Chile, 1B, 28822 Coslada, Madrid, Spain",
+    "location": {
+      "lat": 40.423768,
+      "lng": -3.558085
+    }
+  },
+  {
     "name": "Parroquia de la Santisima Trinidad",
     "address": "Carrer de Santa Anna, 1, 43003 Tarragona, Spain",
     "location": {
@@ -547237,6 +548549,14 @@
     "location": {
       "lat": 40.342701,
       "lng": -3.690766
+    }
+  },
+  {
+    "name": "Parroquia Nuestra Señora De Los Dolores",
+    "address": "Calle Maestro Jiménez, 14, 37008 Salamanca, Spain",
+    "location": {
+      "lat": 40.949554,
+      "lng": -5.662565
     }
   },
   {
@@ -551344,6 +552664,14 @@
     }
   },
   {
+    "name": "Paseo del Vivero",
+    "address": "Unnamed Road, 28280 El Escorial, Madrid, Spain",
+    "location": {
+      "lat": 40.58406,
+      "lng": -4.138556
+    }
+  },
+  {
     "name": "Paseo del Vívero",
     "address": "HVM7+H8 El Escorial, Spain",
     "location": {
@@ -555064,6 +556392,14 @@
     }
   },
   {
+    "name": "Payaso con globos",
+    "address": "Calle Frascuelo, 85, 28891 Velilla de San Antonio, Madrid, Spain",
+    "location": {
+      "lat": 40.368879,
+      "lng": -3.480621
+    }
+  },
+  {
     "name": "Payaso en monociclo",
     "address": "Carrer de Smith, 46, 43005 Tarragona, Spain",
     "location": {
@@ -555093,6 +556429,14 @@
     "location": {
       "lat": 41.527243,
       "lng": 2.184921
+    }
+  },
+  {
+    "name": "Paz entre los mundos",
+    "address": "Av. de los Padres Paúles, 5, 37900 Santa Marta de Tormes, Salamanca, Spain",
+    "location": {
+      "lat": 40.953342,
+      "lng": -5.655071
     }
   },
   {
@@ -556672,6 +558016,14 @@
     }
   },
   {
+    "name": "Pelourinho do Terreiro do Paço",
+    "address": "Largo 25 de Abril 11, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.782413,
+      "lng": -7.419546
+    }
+  },
+  {
     "name": "Pelourinho Praça 25 De Abril",
     "address": "Rua da Praça, 6005-270, Portugal",
     "location": {
@@ -558213,6 +559565,14 @@
     "location": {
       "lat": 39.30181,
       "lng": -7.426486
+    }
+  },
+  {
+    "name": "Percurso pedestre dos Meandros do Côa",
+    "address": "Rua dos Pontões 34, 6320-392 Sabugal, Portugal",
+    "location": {
+      "lat": 40.353928,
+      "lng": -7.091635
     }
   },
   {
@@ -559917,6 +561277,14 @@
     "location": {
       "lat": 40.004076,
       "lng": -3.571925
+    }
+  },
+  {
+    "name": "Perro Guardian",
+    "address": "Camino de los Linares, 138, 28412 Moralzarzal, Madrid, Spain",
+    "location": {
+      "lat": 40.68524,
+      "lng": -3.966298
     }
   },
   {
@@ -562568,6 +563936,14 @@
     }
   },
   {
+    "name": "Peña Madridista Santa Marta",
+    "address": "Av. San Isidro Labrador, 23, 06150 Sta Marta, Badajoz, Spain",
+    "location": {
+      "lat": 38.611219,
+      "lng": -6.625877
+    }
+  },
+  {
     "name": "Peña madrileña",
     "address": "Calle Dr. Vallejo, 38, 28027 Madrid, Spain",
     "location": {
@@ -563760,6 +565136,14 @@
     }
   },
   {
+    "name": "Piedra de juan ramon en memoria",
+    "address": "Av. de los Abedules, 2B, 28430 Alpedrete, Madrid, Spain",
+    "location": {
+      "lat": 40.662193,
+      "lng": -4.030622
+    }
+  },
+  {
     "name": "Piedra de Navacerrada",
     "address": "Calle del Abeto, 8, 40100 Cercedilla, Madrid, Spain",
     "location": {
@@ -564005,6 +565389,14 @@
     "location": {
       "lat": 40.461334,
       "lng": -3.696104
+    }
+  },
+  {
+    "name": "Piernas y Brazos",
+    "address": "R. da Mata 70, 7160-201 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.775699,
+      "lng": -7.419454
     }
   },
   {
@@ -569077,6 +570469,14 @@
     "location": {
       "lat": 40.395533,
       "lng": -3.480666
+    }
+  },
+  {
+    "name": "Piramide De Cuerdas",
+    "address": "Calle Guatemala, 4, 06200 Almendralejo, Badajoz, Spain",
+    "location": {
+      "lat": 38.679471,
+      "lng": -6.41428
     }
   },
   {
@@ -578192,6 +579592,14 @@
     }
   },
   {
+    "name": "Pista de patinaje",
+    "address": "Av de la Aviación, 10, Latina, 28054 Madrid, Spain",
+    "location": {
+      "lat": 40.379231,
+      "lng": -3.785472
+    }
+  },
+  {
     "name": "Pista de Patinaje",
     "address": "Av del Santuario de Valverde, 68B, 28034 Madrid, Spain",
     "location": {
@@ -580969,6 +582377,14 @@
   },
   {
     "name": "Pista de tenis 1",
+    "address": "Calle Francia, 54, 06700, Badajoz, Spain",
+    "location": {
+      "lat": 38.97917,
+      "lng": -5.787842
+    }
+  },
+  {
+    "name": "Pista de tenis 1",
     "address": "Sector Foresta, 15, 28760 Tres Cantos, Madrid, Spain",
     "location": {
       "lat": 40.611905,
@@ -582504,6 +583920,14 @@
     }
   },
   {
+    "name": "Pista deportiva de Patinaje",
+    "address": "Calle Río Torcón, 7, 28803 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.472595,
+      "lng": -3.364557
+    }
+  },
+  {
     "name": "pista deportiva de pádel Letonia",
     "address": "Calle Letonia, 19, 28760 Tres Cantos, Madrid, Spain",
     "location": {
@@ -583936,6 +585360,14 @@
     }
   },
   {
+    "name": "Pista Nueva de Fronton.",
+    "address": "Av. de España, 39, 45510 Fuensalida, Toledo, Spain",
+    "location": {
+      "lat": 40.053624,
+      "lng": -4.194664
+    }
+  },
+  {
     "name": "Pista oficial de Frontón",
     "address": "Av. Circunvalación Norte, 1, Alcorcón, Madrid, Spain",
     "location": {
@@ -584405,6 +585837,14 @@
     "location": {
       "lat": 40.244672,
       "lng": -3.767657
+    }
+  },
+  {
+    "name": "Pista polideportiva",
+    "address": "C. del Gral. Millan Astray, 2D, Latina, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.379041,
+      "lng": -3.768325
     }
   },
   {
@@ -584957,6 +586397,14 @@
     "location": {
       "lat": 41.36334,
       "lng": 2.131413
+    }
+  },
+  {
+    "name": "Pista pública de pádel",
+    "address": "Calle Horizontal 10, 6, 37188, Salamanca, Spain",
+    "location": {
+      "lat": 40.938682,
+      "lng": -5.641073
     }
   },
   {
@@ -585881,6 +587329,14 @@
   },
   {
     "name": "Pistas de deporte",
+    "address": "C. Horizontal 10-U.e.4, 3, 37191 Carbajosa de la Sagrada, Salamanca, Spain",
+    "location": {
+      "lat": 40.938544,
+      "lng": -5.640799
+    }
+  },
+  {
+    "name": "Pistas de deporte",
     "address": "Daganzo - C/ Valdidueñas 40, 28814 Daganzo de Arriba, Madrid, Spain",
     "location": {
       "lat": 40.549984,
@@ -586509,6 +587965,14 @@
     "location": {
       "lat": 41.281937,
       "lng": 1.718625
+    }
+  },
+  {
+    "name": "Pistas de Padel Adecua",
+    "address": "Ctra. Fuencarral a Hortaleza, 44, Fuencarral-El Pardo, 28050 Madrid, Spain",
+    "location": {
+      "lat": 40.493591,
+      "lng": -3.673085
     }
   },
   {
@@ -587437,6 +588901,14 @@
     "location": {
       "lat": 41.185682,
       "lng": 1.546379
+    }
+  },
+  {
+    "name": "Pistas de petanca Silo de Alía",
+    "address": "Calle Laguna, 22, 10137 Alía, Cáceres, Spain",
+    "location": {
+      "lat": 39.451049,
+      "lng": -5.216859
     }
   },
   {
@@ -589432,6 +590904,14 @@
     }
   },
   {
+    "name": "Pistas futbito urbano",
+    "address": "C. Pedro Salinas, 9, 28033 Madrid, Spain",
+    "location": {
+      "lat": 40.45747,
+      "lng": -3.66158
+    }
+  },
+  {
     "name": "Pistas Futbol Sala",
     "address": "C. Jacinta García Hernández, 23, 06011 Badajoz, Spain",
     "location": {
@@ -589509,6 +590989,14 @@
     "location": {
       "lat": 38.558391,
       "lng": -6.329768
+    }
+  },
+  {
+    "name": "Pistas multideporte Arzobispo Morcillo",
+    "address": "C. Arzobispo Morcillo, 46, 28029 Madrid, Spain",
+    "location": {
+      "lat": 40.483709,
+      "lng": -3.69737
     }
   },
   {
@@ -593960,6 +595448,14 @@
     }
   },
   {
+    "name": "Placa Casa Martinez",
+    "address": "Calle Alejandro Chacón, 26, 28043 Madrid, Spain",
+    "location": {
+      "lat": 40.455389,
+      "lng": -3.659318
+    }
+  },
+  {
     "name": "Placa casa natal de Maria Canals i Cendrós",
     "address": "Carrer de Pau Claris, 98, 08010 Barcelona, Spain",
     "location": {
@@ -598096,6 +599592,14 @@
     }
   },
   {
+    "name": "Placa homenaje a José María Gabriel y Galán",
+    "address": "Calle Chinarral, 12, 37770 Guijuelo, Salamanca, Spain",
+    "location": {
+      "lat": 40.555365,
+      "lng": -5.671717
+    }
+  },
+  {
     "name": "Placa Homenaje a José Morera Ortiz, el Hortelano",
     "address": "Av. de Menéndez Pelayo, 39, Retiro, 28009 Madrid, Spain",
     "location": {
@@ -601824,6 +603328,14 @@
     }
   },
   {
+    "name": "Plano Anillo Verde Ciclista (Zona Casa de Campo-Sindical)",
+    "address": "Glorieta Puerta de Hierro, 2D, 28040 Madrid, Spain",
+    "location": {
+      "lat": 40.453164,
+      "lng": -3.74723
+    }
+  },
+  {
     "name": "Plano Aparcamiento Parquesur",
     "address": "Unnamed Road, 28916 Leganés, Madrid, Spain",
     "location": {
@@ -602493,6 +604005,14 @@
     "location": {
       "lat": 40.334754,
       "lng": -3.873825
+    }
+  },
+  {
+    "name": "Plano Esquemático Parque Pellas",
+    "address": "Kike’s Park, C. Londres, 28822 Coslada, Madrid, Spain",
+    "location": {
+      "lat": 40.415048,
+      "lng": -3.552724
     }
   },
   {
@@ -606728,6 +608248,14 @@
     }
   },
   {
+    "name": "Plaza charcas",
+    "address": "Travesía Estrella, 1, 45216 Carranque, Toledo, Spain",
+    "location": {
+      "lat": 40.168404,
+      "lng": -3.901366
+    }
+  },
+  {
     "name": "plaza circular",
     "address": "Plaza Polvoranca, 1A, 28921 Alcorcón, Madrid, Spain",
     "location": {
@@ -608773,6 +610301,14 @@
     "location": {
       "lat": 40.694101,
       "lng": -3.516717
+    }
+  },
+  {
+    "name": "Plaza de Toros El Casar",
+    "address": "Calle Ctra. de Fuentelsaz, 24Q, 19170 El Casar, Guadalajara, Spain",
+    "location": {
+      "lat": 40.7042,
+      "lng": -3.430429
     }
   },
   {
@@ -618656,6 +620192,14 @@
     }
   },
   {
+    "name": "Poliderpotivo Municipal.",
+    "address": "Calle Camilo José Cela, 5, 06150 Sta Marta, Badajoz, Spain",
+    "location": {
+      "lat": 38.612019,
+      "lng": -6.626334
+    }
+  },
+  {
     "name": "Polidesportivo ao ar livre",
     "address": "Av. Luís de Camões 26, 7150 Borba, Portugal",
     "location": {
@@ -622680,6 +624224,14 @@
     }
   },
   {
+    "name": "Portada Colegiata Stmo Sacramento",
+    "address": "Calle Orozco, 1-3, 45500 Torrijos, Toledo, Spain",
+    "location": {
+      "lat": 39.981741,
+      "lng": -4.284994
+    }
+  },
+  {
     "name": "Portada de Don Pedro de Ribera",
     "address": "Calle del Principe, 28, 28012 Madrid, Madrid, Spain",
     "location": {
@@ -626056,6 +627608,14 @@
     }
   },
   {
+    "name": "Pozo Viejo Casat",
+    "address": "Polígono Sector 10, 92, 06400 Don Benito, Badajoz, Spain",
+    "location": {
+      "lat": 38.971419,
+      "lng": -5.855591
+    }
+  },
+  {
     "name": "Pozo y Estanque",
     "address": "Calle Antonio Machado, 0 S/N (Esquina C/ Vía Ensanche), 06800 Mérida, Badajoz, Spain",
     "location": {
@@ -628237,6 +629797,14 @@
     "location": {
       "lat": 41.314233,
       "lng": 2.017452
+    }
+  },
+  {
+    "name": "Publia Hortensia de Castro",
+    "address": "Largo 25 de Abril 14, 7160-255 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.782037,
+      "lng": -7.419474
     }
   },
   {
@@ -630584,6 +632152,14 @@
     }
   },
   {
+    "name": "Puente peatonal madera",
+    "address": "Calle de los Rincones, 3, 28411 Moralzarzal, Madrid, Spain",
+    "location": {
+      "lat": 40.687882,
+      "lng": -3.969017
+    }
+  },
+  {
     "name": "Puente peatonal multicolor",
     "address": "Carretera Via Serv las Rozas, 62, 28231 Las Rozas de Madrid, Madrid, Spain",
     "location": {
@@ -630957,6 +632533,14 @@
     "location": {
       "lat": 40.300078,
       "lng": -3.834503
+    }
+  },
+  {
+    "name": "Puente Sobre El Rio Cuak. Parque Eugenia",
+    "address": "Calle del Parque Eugenia de Montijo, 46, 28047 Madrid, Spain",
+    "location": {
+      "lat": 40.37936,
+      "lng": -3.751489
     }
   },
   {
@@ -632216,6 +633800,14 @@
     }
   },
   {
+    "name": "Puerta Figuras Geométricas",
+    "address": "Calle Telémaco, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.451228,
+      "lng": -3.47479
+    }
+  },
+  {
     "name": "Puerta florida",
     "address": "C. Rafael, 19, 37198 Carbajosa de la Sagrada, Salamanca, Spain",
     "location": {
@@ -632565,6 +634157,14 @@
     "location": {
       "lat": 41.363844,
       "lng": 2.073944
+    }
+  },
+  {
+    "name": "Puerta sur",
+    "address": "Av. la Diputación, 33, 19208 Alovera, Guadalajara, Spain",
+    "location": {
+      "lat": 40.600675,
+      "lng": -3.249524
     }
   },
   {
@@ -635888,6 +637488,14 @@
     }
   },
   {
+    "name": "Pássaro Vila Viçosa",
+    "address": "Alameda Henrique Pousão 13, 7160-214 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.777877,
+      "lng": -7.420915
+    }
+  },
+  {
     "name": "Páteo dos Solares",
     "address": "R. Brito Capelo 90, 7100-562 Estremoz, Portugal",
     "location": {
@@ -638528,6 +640136,14 @@
     }
   },
   {
+    "name": "Pérgolas Avenida Navalcarbón",
+    "address": "Av. Ntra. Sra. del Retamar, 2D, 28232 Las Rozas de Madrid, Madrid, Spain",
+    "location": {
+      "lat": 40.497051,
+      "lng": -3.883334
+    }
+  },
+  {
     "name": "Pérgolas azules",
     "address": "Carretera de las Rozas a Majadahonda, 23, 28231 Las Rozas de Madrid, Madrid, Spain",
     "location": {
@@ -638701,6 +640317,14 @@
     "location": {
       "lat": 40.381875,
       "lng": -3.613636
+    }
+  },
+  {
+    "name": "Pérgolas de Laguna Vieja",
+    "address": "Calle Dr. Barraquer, 9, 28220 Majadahonda, Madrid, Spain",
+    "location": {
+      "lat": 40.474461,
+      "lng": -3.875439
     }
   },
   {
@@ -640445,6 +642069,14 @@
     "location": {
       "lat": 41.390891,
       "lng": 2.185693
+    }
+  },
+  {
+    "name": "Querubines",
+    "address": "Avenida Daroca, 96, 28017 Madrid, Madrid, Spain",
+    "location": {
+      "lat": 40.422219,
+      "lng": -3.643665
     }
   },
   {
@@ -645304,6 +646936,14 @@
     }
   },
   {
+    "name": "Red bull",
+    "address": "Calle Sector UR-M2, 3D, 37188, Salamanca, Spain",
+    "location": {
+      "lat": 40.945989,
+      "lng": -5.644306
+    }
+  },
+  {
     "name": "Red Cabin",
     "address": "Calle de Oña, 111, 28050 Madrid, Spain",
     "location": {
@@ -646453,6 +648093,14 @@
     "location": {
       "lat": 41.388331,
       "lng": 2.117129
+    }
+  },
+  {
+    "name": "Regimento de Cavalaria 3",
+    "address": "Largo 25 de Abril 15, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.783035,
+      "lng": -7.419937
     }
   },
   {
@@ -651273,6 +652921,14 @@
   },
   {
     "name": "Restos romanos",
+    "address": "Avenida de la Virgen de Guadalupe, 11-13, 10200 Trujillo, Cáceres, Spain",
+    "location": {
+      "lat": 39.457782,
+      "lng": -5.873299
+    }
+  },
+  {
+    "name": "Restos romanos",
     "address": "Calle Vía Ensanche, 25, 06800 Mérida, Badajoz, Spain",
     "location": {
       "lat": 38.912705,
@@ -651773,6 +653429,14 @@
     "location": {
       "lat": 40.982051,
       "lng": -7.610543
+    }
+  },
+  {
+    "name": "Rezando",
+    "address": "C9C4+9V, Ciudad Lineal, 28017 Madrid, Spain",
+    "location": {
+      "lat": 40.420576,
+      "lng": -3.644329
     }
   },
   {
@@ -660400,6 +662064,14 @@
     }
   },
   {
+    "name": "Rutas urbanas del Tormes",
+    "address": "Sc Marin I, 33, 37007, Salamanca, Spain",
+    "location": {
+      "lat": 40.959736,
+      "lng": -5.695599
+    }
+  },
+  {
     "name": "Rutas Variocolor",
     "address": "Avinguda de Barcelona, 175, 43881 Cunit, Tarragona, Spain",
     "location": {
@@ -660805,6 +662477,14 @@
     "location": {
       "lat": 41.532517,
       "lng": 2.080396
+    }
+  },
+  {
+    "name": "Rádio Campanário 90.6 FM",
+    "address": "R. do Convento 5, 7160 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.775663,
+      "lng": -7.416785
     }
   },
   {
@@ -661277,6 +662957,14 @@
     "location": {
       "lat": 40.380419,
       "lng": -3.771027
+    }
+  },
+  {
+    "name": "Sacale punta al lápiz",
+    "address": "Calle Burdeos, 4, 28802 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.474033,
+      "lng": -3.378605
     }
   },
   {
@@ -670784,6 +672472,14 @@
     }
   },
   {
+    "name": "Senda Arboreto",
+    "address": "Camino los Pozos, 145P, 28609 Sevilla la Nueva, Madrid, Spain",
+    "location": {
+      "lat": 40.351878,
+      "lng": -4.028474
+    }
+  },
+  {
     "name": "Senda Arroyo Combos",
     "address": "Av. Félix Rodríguez de la Fuente, 29, 28939 Arroyomolinos, Madrid, Spain",
     "location": {
@@ -675581,6 +677277,14 @@
     "location": {
       "lat": 40.532731,
       "lng": -3.479017
+    }
+  },
+  {
+    "name": "Silo de Alía",
+    "address": "Calle Laguna, 15, 10137 Alía, Cáceres, Spain",
+    "location": {
+      "lat": 39.450436,
+      "lng": -5.217321
     }
   },
   {
@@ -686256,6 +687960,14 @@
     }
   },
   {
+    "name": "T-rex de Cercedilla",
+    "address": "Av. de la Sierra del Guadarrama, 20, 28470 Cercedilla, Madrid, Spain",
+    "location": {
+      "lat": 40.741964,
+      "lng": -4.053768
+    }
+  },
+  {
     "name": "T2",
     "address": "Moll de la Costa, 8, 43004 Tarragona, Spain",
     "location": {
@@ -693488,6 +695200,14 @@
     }
   },
   {
+    "name": "Texto Alfonso XI libro de la montería",
+    "address": "C. Francisco Pizarro, 7, 10374 Navezuelas, Cáceres, Spain",
+    "location": {
+      "lat": 39.509295,
+      "lng": -5.435311
+    }
+  },
+  {
     "name": "Textured Man",
     "address": "Carrer de Pere Serafí, 39-41, 08012 Barcelona, Spain",
     "location": {
@@ -697048,6 +698768,14 @@
     }
   },
   {
+    "name": "Tirolina",
+    "address": "Unnamed Road, 28055 Madrid, Spain",
+    "location": {
+      "lat": 40.484662,
+      "lng": -3.627249
+    }
+  },
+  {
     "name": "Tirolina al passeig de mar",
     "address": "Passeig Marítim, 9, 08397 Pineda de Mar, Barcelona, Spain",
     "location": {
@@ -698744,6 +700472,14 @@
     }
   },
   {
+    "name": "Tobogan trepador",
+    "address": "C. Fuerte de Navidad, 21, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.380271,
+      "lng": -3.767362
+    }
+  },
+  {
     "name": "Tobogan Tubo",
     "address": "Avenida Atenas, 4D, 28922 Alcorcón, Madrid, Spain",
     "location": {
@@ -699501,6 +701237,14 @@
     "location": {
       "lat": 40.42905,
       "lng": -3.707
+    }
+  },
+  {
+    "name": "Tobogán azul",
+    "address": "Calle Portillo de Toledo, 17X, 45183 Las Ventas de Retamosa, Toledo, Spain",
+    "location": {
+      "lat": 40.155783,
+      "lng": -4.120081
     }
   },
   {
@@ -701224,6 +702968,14 @@
     }
   },
   {
+    "name": "Tobogán Verde",
+    "address": "Av. Príncipe de Asturias, 24, 28670 Villaviciosa de Odón, Madrid, Spain",
+    "location": {
+      "lat": 40.355723,
+      "lng": -3.901289
+    }
+  },
+  {
     "name": "Tobogán verde",
     "address": "Calle José María Alonso Gamo, 109, 19004 Guadalajara, Spain",
     "location": {
@@ -702224,6 +703976,14 @@
     }
   },
   {
+    "name": "Toro Bello",
+    "address": "Calle Daganzo, 4A, 28860 Paracuellos de Jarama, Madrid, Spain",
+    "location": {
+      "lat": 40.526523,
+      "lng": -3.53768
+    }
+  },
+  {
     "name": "Toro Bravo",
     "address": "Av. de los Reyes Católicos, 21, 28701 San Sebastián de los Reyes, Madrid, Spain",
     "location": {
@@ -702237,6 +703997,14 @@
     "location": {
       "lat": 40.036242,
       "lng": -6.088738
+    }
+  },
+  {
+    "name": "Toro cabreado",
+    "address": "Av. Calatalifa, 10, 28670 Villaviciosa de Odón, Madrid, Spain",
+    "location": {
+      "lat": 40.356148,
+      "lng": -3.902996
     }
   },
   {
@@ -703981,6 +705749,14 @@
     "location": {
       "lat": 41.558817,
       "lng": 1.989012
+    }
+  },
+  {
+    "name": "Torre de Toboganes 'Kamikaze'",
+    "address": "Unnamed Road, 06006 Badajoz, Spain",
+    "location": {
+      "lat": 38.878623,
+      "lng": -7.026821
     }
   },
   {
@@ -708000,6 +709776,14 @@
     }
   },
   {
+    "name": "Trail Marker GR45/PR1SBG",
+    "address": "R. Cidade da Guarda 28, 6320, Portugal",
+    "location": {
+      "lat": 40.354586,
+      "lng": -7.092396
+    }
+  },
+  {
     "name": "Trail Marker II GR22",
     "address": "R. de Alcanizes 1, 6320-347 Sabugal, Portugal",
     "location": {
@@ -711717,6 +713501,14 @@
     "location": {
       "lat": 41.455697,
       "lng": 2.249506
+    }
+  },
+  {
+    "name": "Tumba de Pío Baroja",
+    "address": "Cementerio Civil, Av. de Daroca, 103, 28032 Madrid, Spain",
+    "location": {
+      "lat": 40.422098,
+      "lng": -3.635782
     }
   },
   {
@@ -717296,6 +719088,14 @@
     }
   },
   {
+    "name": "Vamos a pintar",
+    "address": "Calle de Guzmán el Bueno, 18, 28015 Madrid, Spain",
+    "location": {
+      "lat": 40.432079,
+      "lng": -3.713281
+    }
+  },
+  {
     "name": "Vamos Al Futuro",
     "address": "Calle Cacera de la Villa, 3, 28400 Collado Villalba, Madrid, Spain",
     "location": {
@@ -717917,6 +719717,14 @@
     "location": {
       "lat": 41.403012,
       "lng": 2.192821
+    }
+  },
+  {
+    "name": "Vegetales Medicinales",
+    "address": "Calle Canto Astial, 1C, 28400 Collado Villalba, Madrid, Spain",
+    "location": {
+      "lat": 40.652473,
+      "lng": -4.002335
     }
   },
   {
@@ -719461,6 +721269,14 @@
     "location": {
       "lat": 40.258094,
       "lng": -3.805199
+    }
+  },
+  {
+    "name": "Vertice Geodesico San Pedro",
+    "address": "28792 Miraflores de la Sierra, Madrid, Spain",
+    "location": {
+      "lat": 40.729299,
+      "lng": -3.710328
     }
   },
   {
@@ -724064,6 +725880,14 @@
     }
   },
   {
+    "name": "Volante tallado en piedra",
+    "address": "C. Luz Baja, 40, 37300 Peñaranda de Bracamonte, Salamanca, Spain",
+    "location": {
+      "lat": 40.903972,
+      "lng": -5.200663
+    }
+  },
+  {
     "name": "Volante Variocolor",
     "address": "Carrer Bosc Tancat, 46, 08290 Cerdanyola del Vallès, Barcelona, Spain",
     "location": {
@@ -724581,6 +726405,14 @@
     "location": {
       "lat": 40.363081,
       "lng": -3.739581
+    }
+  },
+  {
+    "name": "Vulcão de água",
+    "address": "Rua Dr. Joaquim Luís Pereira Trindade 6, 7150 Borba, Portugal",
+    "location": {
+      "lat": 38.805553,
+      "lng": -7.463049
     }
   },
   {
@@ -730568,6 +732400,14 @@
     }
   },
   {
+    "name": "Zona de Ajedrez abandonada",
+    "address": "Paseo Cambronera, 2V, 45340 Ontígola, Toledo, Spain",
+    "location": {
+      "lat": 40.005434,
+      "lng": -3.571056
+    }
+  },
+  {
     "name": "Zona de Ajedrez con Fuente",
     "address": "Barrio Cruz, 33A, 28280 El Escorial, Madrid, Spain",
     "location": {
@@ -730888,6 +732728,14 @@
     }
   },
   {
+    "name": "Zona de descando a la estacion",
+    "address": "C. Cruz de San Sebastián, 801, 28805 Alcalá de Henares, Madrid, Spain",
+    "location": {
+      "lat": 40.50853,
+      "lng": -3.339732
+    }
+  },
+  {
     "name": "Zona de descans",
     "address": "Avinguda de Carl Friedrich Gauss, 13, 08860 Castelldefels, Barcelona, Spain",
     "location": {
@@ -731037,6 +732885,14 @@
     "location": {
       "lat": 40.491238,
       "lng": -3.60933
+    }
+  },
+  {
+    "name": "Zona de Descanso Grafitera",
+    "address": "Alondra-Urb.Cabezuela de la Iluminaria, 28470 Cercedilla, Madrid, Spain",
+    "location": {
+      "lat": 40.732961,
+      "lng": -4.054662
     }
   },
   {
@@ -731245,6 +733101,14 @@
     "location": {
       "lat": 40.463065,
       "lng": -3.36704
+    }
+  },
+  {
+    "name": "Zona de ejercicio La Sagra",
+    "address": "C. de la Rioja, 137, 28915 Leganés, Madrid, Spain",
+    "location": {
+      "lat": 40.333735,
+      "lng": -3.750515
     }
   },
   {
@@ -734056,6 +735920,14 @@
     }
   },
   {
+    "name": "zona de merenda",
+    "address": "Largo Gago Coutinho 25, 7160-254 Vila Viçosa, Portugal",
+    "location": {
+      "lat": 38.775897,
+      "lng": -7.419214
+    }
+  },
+  {
     "name": "Zona de Merendas",
     "address": "7FJG+QC Covilhã, Portugal",
     "location": {
@@ -734301,6 +736173,14 @@
     "location": {
       "lat": 40.360271,
       "lng": -3.694601
+    }
+  },
+  {
+    "name": "Zona de petanca Parque “El Montecillo”",
+    "address": "Parque Mercedes Formica, Av. Ntra. Señora del Retamar, 2, 28232 Las Rozas de Madrid, Madrid, Spain",
+    "location": {
+      "lat": 40.497344,
+      "lng": -3.884104
     }
   },
   {
@@ -735149,6 +737029,14 @@
     "location": {
       "lat": 40.51072,
       "lng": -3.361905
+    }
+  },
+  {
+    "name": "Zona Dog",
+    "address": "Calle Alcalde Francisco More, 1, 28914 Leganés, Madrid, Spain",
+    "location": {
+      "lat": 40.317808,
+      "lng": -3.78116
     }
   },
   {
@@ -736141,6 +738029,14 @@
     "location": {
       "lat": 40.462014,
       "lng": -3.480531
+    }
+  },
+  {
+    "name": "Zona Infantil Camarena",
+    "address": "C. Camarena, 90, 28047 Madrid, Spain",
+    "location": {
+      "lat": 40.393386,
+      "lng": -3.756401
     }
   },
   {
@@ -737328,6 +739224,14 @@
     }
   },
   {
+    "name": "Zona Infantil Pedro I",
+    "address": "Calle Espartales Norte S-115A, 24F, 28806, Madrid, Spain",
+    "location": {
+      "lat": 40.510493,
+      "lng": -3.360674
+    }
+  },
+  {
     "name": "Zona infantil pensamiento",
     "address": "Calle Miralrío, 11, 28950 Moraleja de Enmedio, Madrid, Spain",
     "location": {
@@ -738016,6 +739920,14 @@
     }
   },
   {
+    "name": "Zona para perros \"PipiCan\"",
+    "address": "Poligono Sector 3, 9, 06220, Badajoz, Spain",
+    "location": {
+      "lat": 38.555446,
+      "lng": -6.3292
+    }
+  },
+  {
     "name": "Zona para perros El Juncal",
     "address": "Torrejon - Las Veredillas, 28850 Torrejón de Ardoz, Madrid, Spain",
     "location": {
@@ -738269,6 +740181,14 @@
     "location": {
       "lat": 41.795728,
       "lng": 2.2258
+    }
+  },
+  {
+    "name": "Zona Recreo Canino",
+    "address": "Agility Loeches, C. Maria Zambrano, 5T, 28890 Loeches, Madrid, Spain",
+    "location": {
+      "lat": 40.382748,
+      "lng": -3.415922
     }
   },
   {
@@ -739205,6 +741125,14 @@
     "location": {
       "lat": 40.36008,
       "lng": -3.689769
+    }
+  },
+  {
+    "name": "¡Todos en forma!",
+    "address": "Av. Valle, 3, 28670 Villaviciosa de Odón, Madrid, Spain",
+    "location": {
+      "lat": 40.354224,
+      "lng": -3.890074
     }
   },
   {
@@ -743432,6 +745360,14 @@
     }
   },
   {
+    "name": "Área canina Parque Alcalá",
+    "address": "Av. de la Constitución, 601, 28850 Torrejón de Ardoz, Madrid, Spain",
+    "location": {
+      "lat": 40.46746,
+      "lng": -3.432326
+    }
+  },
+  {
     "name": "Área Canina Parque Aztecas",
     "address": "AZTECAS Park, Av. de la Constitución, 192, 28850 Torrejón de Ardoz, Madrid, Spain",
     "location": {
@@ -744181,6 +746117,14 @@
     "location": {
       "lat": 40.401758,
       "lng": -3.625609
+    }
+  },
+  {
+    "name": "Área de ejercicio Pajaritos",
+    "address": "C. de los Pajaritos, 1, Retiro, 28007 Madrid, Spain",
+    "location": {
+      "lat": 40.401602,
+      "lng": -3.67247
     }
   },
   {
@@ -746968,6 +748912,14 @@
     }
   },
   {
+    "name": "Área de Recreo Canina Gabriel Portadales",
+    "address": "C. Gabriel Portadales, 15, Tetuán, 28029 Madrid, Spain",
+    "location": {
+      "lat": 40.467944,
+      "lng": -3.698955
+    }
+  },
+  {
     "name": "Área de recreo canina La Almudena",
     "address": "Canine area, Av. de Daroca, 99, 28017 Madrid, Spain",
     "location": {
@@ -747133,6 +749085,14 @@
     "location": {
       "lat": 41.376837,
       "lng": 2.166837
+    }
+  },
+  {
+    "name": "Área Deportiva",
+    "address": "Av. Chopera, 1B, 45216 Carranque, Toledo, Spain",
+    "location": {
+      "lat": 40.164328,
+      "lng": -3.900428
     }
   },
   {
@@ -747869,6 +749829,14 @@
     "location": {
       "lat": 40.489045,
       "lng": -3.871788
+    }
+  },
+  {
+    "name": "Área infantil Cerro de las Norias",
+    "address": "Calle Mar de Java, 32, 28221 Majadahonda, Madrid, Spain",
+    "location": {
+      "lat": 40.469887,
+      "lng": -3.858848
     }
   },
   {
@@ -749885,6 +751853,14 @@
     "location": {
       "lat": 40.568033,
       "lng": -3.273574
+    }
+  },
+  {
+    "name": "Área juegos Infantiles Las Águilas",
+    "address": "infantil Park, Av. de Las Águilas, 25D, 28044 Madrid, Spain",
+    "location": {
+      "lat": 40.382272,
+      "lng": -3.768322
     }
   },
   {
