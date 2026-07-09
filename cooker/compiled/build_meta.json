@@ -1,52 +1,52 @@
 {
-  "builtAt": "2026-07-08T06:17:23.618241+00:00",
+  "builtAt": "2026-07-09T07:07:02.368292+00:00",
   "rawDir": "/home/runner/work/Analiticgress2/Analiticgress2/cooker/raw",
-  "filesRead": 230,
-  "recordsRead": 1456981,
-  "recordsUnique": 1454918,
-  "duplicatesSkipped": 2063,
-  "agents": 1315,
-  "portals": 96036,
-  "cookedEvents": 1451507,
+  "filesRead": 233,
+  "recordsRead": 1471313,
+  "recordsUnique": 1469246,
+  "duplicatesSkipped": 2067,
+  "agents": 1317,
+  "portals": 96386,
+  "cookedEvents": 1465830,
   "cookedChunks": 34,
-  "cookedRawJsonBytes": 594359855,
-  "cookedCompressedBase64Bytes": 104278916,
-  "scalableDays": 83,
+  "cookedRawJsonBytes": 602465466,
+  "cookedCompressedBase64Bytes": 105398132,
+  "scalableDays": 84,
   "scalableSummaries": {
     "global": {
       "path": "summaries/global.json.gz.b64.txt",
       "rawJsonBytes": 397,
-      "compressedBase64Bytes": 372
+      "compressedBase64Bytes": 376
     },
     "months": {
       "path": "summaries/months.json.gz.b64.txt",
-      "rawJsonBytes": 1015,
-      "compressedBase64Bytes": 556
+      "rawJsonBytes": 1016,
+      "compressedBase64Bytes": 560
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1693958,
-      "compressedBase64Bytes": 431000
+      "rawJsonBytes": 1697025,
+      "compressedBase64Bytes": 432652
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 19671622,
-      "compressedBase64Bytes": 5658124
+      "rawJsonBytes": 19754547,
+      "compressedBase64Bytes": 5681532
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 12117,
-      "compressedBase64Bytes": 4208
+      "rawJsonBytes": 12105,
+      "compressedBase64Bytes": 4196
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
-      "rawJsonBytes": 9927,
-      "compressedBase64Bytes": 2868
+      "rawJsonBytes": 9953,
+      "compressedBase64Bytes": 2880
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 3288041,
-      "compressedBase64Bytes": 863176
+      "rawJsonBytes": 3323584,
+      "compressedBase64Bytes": 873008
     }
   },
   "schema": "bot-references-v1",
