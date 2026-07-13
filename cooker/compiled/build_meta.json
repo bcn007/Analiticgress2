@@ -1,52 +1,52 @@
 {
-  "builtAt": "2026-07-12T06:23:11.246062+00:00",
+  "builtAt": "2026-07-13T06:41:47.485568+00:00",
   "rawDir": "/home/runner/work/Analiticgress2/Analiticgress2/cooker/raw",
-  "filesRead": 242,
-  "recordsRead": 1518275,
-  "recordsUnique": 1515769,
-  "duplicatesSkipped": 2506,
-  "agents": 1345,
-  "portals": 97250,
-  "cookedEvents": 1512346,
+  "filesRead": 243,
+  "recordsRead": 1526778,
+  "recordsUnique": 1524270,
+  "duplicatesSkipped": 2508,
+  "agents": 1347,
+  "portals": 97424,
+  "cookedEvents": 1520847,
   "cookedChunks": 35,
-  "cookedRawJsonBytes": 629127481,
-  "cookedCompressedBase64Bytes": 109217640,
+  "cookedRawJsonBytes": 632812394,
+  "cookedCompressedBase64Bytes": 109865164,
   "scalableDays": 87,
   "scalableSummaries": {
     "global": {
       "path": "summaries/global.json.gz.b64.txt",
       "rawJsonBytes": 397,
-      "compressedBase64Bytes": 376
+      "compressedBase64Bytes": 372
     },
     "months": {
       "path": "summaries/months.json.gz.b64.txt",
       "rawJsonBytes": 1018,
-      "compressedBase64Bytes": 560
+      "compressedBase64Bytes": 568
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1733150,
-      "compressedBase64Bytes": 441616
+      "rawJsonBytes": 1736125,
+      "compressedBase64Bytes": 442656
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 20012911,
-      "compressedBase64Bytes": 5751976
+      "rawJsonBytes": 20066174,
+      "compressedBase64Bytes": 5767296
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 12161,
-      "compressedBase64Bytes": 4192
+      "rawJsonBytes": 12130,
+      "compressedBase64Bytes": 4180
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
-      "rawJsonBytes": 10037,
-      "compressedBase64Bytes": 2884
+      "rawJsonBytes": 10038,
+      "compressedBase64Bytes": 2892
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 3431954,
-      "compressedBase64Bytes": 902496
+      "rawJsonBytes": 3444858,
+      "compressedBase64Bytes": 905964
     }
   },
   "schema": "bot-references-v1",
